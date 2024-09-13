@@ -1,6 +1,9 @@
+
 # Ом намасте👋
-## [Открыть документацию]([https://devsanatkumara.github.io/DevSanatkumara/advayta_org/index.html])
-https://devsanatkumara.github.io/DevSanatkumara/advayta_org/index.html
+
+---
+
+## [Открыть документацию](https://devsanatkumara.github.io/DevSanatkumara/advayta_org/index.html)
 
 <!--
 **DevSanatkumara/DevSanatkumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
