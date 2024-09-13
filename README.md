@@ -1,8 +1,6 @@
 
 # Ом намасте👋
 
----
-
 ## [Открыть документацию](https://devsanatkumara.github.io/DevSanatkumara/advayta_org/index.html)
 
 <!--
