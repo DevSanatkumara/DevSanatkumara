@@ -1,6 +1,6 @@
 {
   "vaultName": "SK",
-  "lastExport": 1726356685481,
+  "lastExport": 1726357977071,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -28,44 +28,39 @@
     "advayta_org/Модули/Библиотека/Поиск в библиотеке.md",
     "advayta_org/Модули/Библиотека/Страница с книгой.md",
     "advayta_org/Модули/Библиотека/Читальный зал.md",
+    "advayta_org/Модули/Видеогаллереия/Модуль Видеогаллерея.md",
+    "advayta_org/Модули/Древо Прибежища/Модуль Древо Прибежища.md",
+    "advayta_org/Модули/Дхарма википедия/Модуль Дхарма википедия.md",
     "advayta_org/Модули/ИИ/Анализ естественного языка.md",
-    "advayta_org/Модули/ИИ/ИИ.md",
     "advayta_org/Модули/ИИ/ИИ в Аудиомодуле.md",
     "advayta_org/Модули/ИИ/ИИ в читальном зале.md",
+    "advayta_org/Модули/ИИ/Модуль ИИ.md",
     "advayta_org/Модули/Институт Васиштхи/Институт Васиштхи.md",
-    "advayta_org/Модули/Подписка/Подписка.md",
+    "advayta_org/Модули/Календарь/Модуль Календарь.md",
+    "advayta_org/Модули/Контакты/Модуль Контакты.md",
+    "advayta_org/Модули/Магазин/Модуль Магазин.md",
+    "advayta_org/Модули/Мантра дня/Модуль Мантра дня.md",
+    "advayta_org/Модули/Наши ресурсы (ссылки)/Модуль Наши ресурсы (ссылки).md",
+    "advayta_org/Модули/Новости/Модуль Новости.md",
+    "advayta_org/Модули/Подписка/Модуль Подписка.md",
     "advayta_org/Модули/Подписка/Функции подписки в аудиомодуле.md",
     "advayta_org/Модули/Подписка/Функции подписки в библиотеке.md",
+    "advayta_org/Модули/Пожертвования и проекты/Модуль Пожертвования и Проекты.md",
     "advayta_org/Модули/Поиск/Модуль Поиск.md",
     "advayta_org/Модули/Поиск/Поиск по сайту.md",
     "advayta_org/Модули/Поиск/Технические требования.md",
-    "advayta_org/Модули/Радио/Радио.md",
+    "advayta_org/Модули/Радио/Модул Радио.md",
+    "advayta_org/Модули/Форум/Модуль Форум.md",
+    "advayta_org/Модули/Фотогаллереия/Модуль Фотогаллерея.md",
     "advayta_org/Модули/Глоссарий.md",
-    "advayta_org/Модули/Модули список.md",
+    "advayta_org/Модули/Список модулей.md",
     "advayta_org/advayta.org.md",
     "advayta_org/Вопросы по сайту.md",
     "advayta_org/Жертвователи на сайт.md",
     "advayta_org/Ссылки.md",
     "advayta_org/Фичи.md",
-    "lib/media/pasted-image-20240912170637.png",
-    "lib/media/pasted-image-20240912181016.png",
-    "lib/media/pasted-image-20240914200742.png",
-    "lib/media/размента-сайта.-правки-1.jpg",
-    "lib/media/размента-сайта.-правки-2.jpg",
-    "lib/media/размента-сайта.-правки-3.jpg",
-    "lib/media/верхнее-меню.jpg",
-    "lib/media/главная-страница.jpg",
-    "lib/media/радио-дхарма.jpg",
-    "lib/media/боковое-меню.jpg",
-    "lib/media/магические-иконки-1.jpg",
-    "lib/media/магические-иконки-2.jpg",
-    "lib/media/магические-иконки-3.jpg",
-    "lib/media/pasted-image-20240913101138.png",
-    "lib/media/pasted-image-20240913101210.png",
-    "lib/media/pasted-image-20240913101305.png",
+    "lib/media/pasted-image-20240912160526.png",
     "lib/media/pasted-image-20240910223748.png",
-    "lib/media/pasted-image-20240910141006.png",
-    "lib/media/pasted-image-20240910152120.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -96,7 +91,22 @@
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
-    "lib/media/pasted-image-20240912160526.png",
+    "lib/media/pasted-image-20240912170637.png",
+    "lib/media/pasted-image-20240912181016.png",
+    "lib/media/pasted-image-20240914200742.png",
+    "lib/media/размента-сайта.-правки-1.jpg",
+    "lib/media/размента-сайта.-правки-2.jpg",
+    "lib/media/размента-сайта.-правки-3.jpg",
+    "lib/media/верхнее-меню.jpg",
+    "lib/media/главная-страница.jpg",
+    "lib/media/радио-дхарма.jpg",
+    "lib/media/боковое-меню.jpg",
+    "lib/media/магические-иконки-1.jpg",
+    "lib/media/магические-иконки-2.jpg",
+    "lib/media/магические-иконки-3.jpg",
+    "lib/media/pasted-image-20240913101138.png",
+    "lib/media/pasted-image-20240913101210.png",
+    "lib/media/pasted-image-20240913101305.png",
     "lib/media/pasted-image-20240911011822.png",
     "lib/media/pasted-image-20240911001939.png",
     "lib/media/pasted-image-20240911002350.png",
@@ -104,7 +114,9 @@
     "lib/media/pasted-image-20240911013549.png",
     "lib/media/pasted-image-20240911004421.png",
     "lib/media/pasted-image-20240910224435.png",
-    "lib/media/pasted-image-20240913011934.png"
+    "lib/media/pasted-image-20240913011934.png",
+    "lib/media/pasted-image-20240910141006.png",
+    "lib/media/pasted-image-20240910152120.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -180,8 +192,8 @@
       "dependencies": []
     },
     "advayta_org/Модули/Аудиогаллерея/Плеер.md": {
-      "modifiedTime": 1726186681143,
-      "sourceSize": 3903,
+      "modifiedTime": 1726357977071,
+      "sourceSize": 3913,
       "exportedPath": "advayta_org/модули/аудиогаллерея/плеер.html",
       "dependencies": [
         "lib/media/pasted-image-20240912160526.png"
@@ -222,12 +234,6 @@
         "lib/media/pasted-image-20240913011934.png"
       ]
     },
-    "advayta_org/Модули/ИИ/ИИ.md": {
-      "modifiedTime": 1726186681143,
-      "sourceSize": 219,
-      "exportedPath": "advayta_org/модули/ии/ии.html",
-      "dependencies": []
-    },
     "advayta_org/Модули/ИИ/ИИ в Аудиомодуле.md": {
       "modifiedTime": 1726356685481,
       "sourceSize": 1465,
@@ -246,12 +252,6 @@
       "exportedPath": "advayta_org/модули/институт-васиштхи/институт-васиштхи.html",
       "dependencies": []
     },
-    "advayta_org/Модули/Подписка/Подписка.md": {
-      "modifiedTime": 1726186681143,
-      "sourceSize": 42,
-      "exportedPath": "advayta_org/модули/подписка/подписка.html",
-      "dependencies": []
-    },
     "advayta_org/Модули/Подписка/Функции подписки в аудиомодуле.md": {
       "modifiedTime": 1726186681143,
       "sourceSize": 804,
@@ -262,12 +262,6 @@
       "modifiedTime": 1726186681143,
       "sourceSize": 734,
       "exportedPath": "advayta_org/модули/подписка/функции-подписки-в-библиотеке.html",
-      "dependencies": []
-    },
-    "advayta_org/Модули/Радио/Радио.md": {
-      "modifiedTime": 1726186681143,
-      "sourceSize": 42,
-      "exportedPath": "advayta_org/модули/радио/радио.html",
       "dependencies": []
     },
     "advayta_org/Модули/Глоссарий.md": {
@@ -289,7 +283,7 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240912160526.png": {
-      "modifiedTime": 1726186681143,
+      "modifiedTime": 1726357977071,
       "sourceSize": 148098,
       "exportedPath": "lib/media/pasted-image-20240912160526.png",
       "dependencies": []
@@ -343,187 +337,187 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240910223748.png": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 54238,
       "exportedPath": "lib/media/pasted-image-20240910223748.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1726356685481,
-      "sourceSize": 43721,
+      "modifiedTime": 1726357977071,
+      "sourceSize": 65807,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1726356685481,
-      "sourceSize": 4004,
+      "modifiedTime": 1726357977071,
+      "sourceSize": 5251,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 12922,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1726356685481,
+      "modifiedTime": 1726357977071,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -623,8 +617,8 @@
       "dependencies": []
     },
     "advayta_org/Модули/Поиск/Поиск по сайту.md": {
-      "modifiedTime": 1726356685481,
-      "sourceSize": 3708,
+      "modifiedTime": 1726357977071,
+      "sourceSize": 3733,
       "exportedPath": "advayta_org/модули/поиск/поиск-по-сайту.html",
       "dependencies": [
         "lib/media/pasted-image-20240910223748.png"
@@ -636,21 +630,15 @@
       "exportedPath": "advayta_org/модули/поиск/технические-требования.html",
       "dependencies": []
     },
-    "advayta_org/Модули/Модули список.md": {
-      "modifiedTime": 1726356685481,
-      "sourceSize": 376,
-      "exportedPath": "advayta_org/модули/модули-список.html",
-      "dependencies": []
-    },
     "advayta_org/advayta.org.md": {
-      "modifiedTime": 1726356685481,
-      "sourceSize": 230,
+      "modifiedTime": 1726357977071,
+      "sourceSize": 301,
       "exportedPath": "advayta_org/advayta.org.html",
       "dependencies": []
     },
     "advayta_org/Вопросы по сайту.md": {
-      "modifiedTime": 1726356685481,
-      "sourceSize": 144,
+      "modifiedTime": 1726357977071,
+      "sourceSize": 44,
       "exportedPath": "advayta_org/вопросы-по-сайту.html",
       "dependencies": []
     },
@@ -664,8 +652,8 @@
       ]
     },
     "advayta_org/Ссылки.md": {
-      "modifiedTime": 1726356685481,
-      "sourceSize": 187,
+      "modifiedTime": 1726357977071,
+      "sourceSize": 232,
       "exportedPath": "advayta_org/ссылки.html",
       "dependencies": []
     },
@@ -769,6 +757,102 @@
       "modifiedTime": 1726356685481,
       "sourceSize": 68568,
       "exportedPath": "lib/media/pasted-image-20240910152120.png",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Видеогаллереия/Модуль Видеогаллерея.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/видеогаллереия/модуль-видеогаллерея.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Древо Прибежища/Модуль Древо Прибежища.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/древо-прибежища/модуль-древо-прибежища.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Дхарма википедия/Модуль Дхарма википедия.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/дхарма-википедия/модуль-дхарма-википедия.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/ИИ/Модуль ИИ.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 219,
+      "exportedPath": "advayta_org/модули/ии/модуль-ии.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Календарь/Модуль Календарь.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/календарь/модуль-календарь.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Контакты/Модуль Контакты.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/контакты/модуль-контакты.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Магазин/Модуль Магазин.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 186,
+      "exportedPath": "advayta_org/модули/магазин/модуль-магазин.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Мантра дня/Модуль Мантра дня.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/мантра-дня/модуль-мантра-дня.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Наши ресурсы (ссылки)/Модуль Наши ресурсы (ссылки).md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/наши-ресурсы-(ссылки)/модуль-наши-ресурсы-(ссылки).html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Новости/Модуль Новости.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/новости/модуль-новости.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Подписка/Модуль Подписка.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/подписка/модуль-подписка.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Пожертвования и проекты/Модуль Пожертвования и Проекты.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/пожертвования-и-проекты/модуль-пожертвования-и-проекты.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Радио/Модул Радио.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/радио/модул-радио.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Форум/Модуль Форум.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 126,
+      "exportedPath": "advayta_org/модули/форум/модуль-форум.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Фотогаллереия/Модуль Фотогаллерея.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 42,
+      "exportedPath": "advayta_org/модули/фотогаллереия/модуль-фотогаллерея.html",
+      "dependencies": []
+    },
+    "advayta_org/Модули/Список модулей.md": {
+      "modifiedTime": 1726357977071,
+      "sourceSize": 1082,
+      "exportedPath": "advayta_org/модули/список-модулей.html",
       "dependencies": []
     }
   }
