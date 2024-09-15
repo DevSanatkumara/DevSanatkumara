@@ -14,7 +14,7 @@ Advayta.org — это уникальный ресурс для всех, кто
 
 ## 🔗 Перейти к документации
 
-[Документация сайта Advayta.org](https://devsanatkumara.github.io/DevSanatkumara/advayta_org/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8.html)
+[Документация сайта Advayta.org](https://devsanatkumara.github.io/DevSanatkumara/advayta_org/advayta.org.html)
 
 ## 🧘 О проекте
 
