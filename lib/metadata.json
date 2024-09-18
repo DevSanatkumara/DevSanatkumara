@@ -1,6 +1,6 @@
 {
   "vaultName": "advayta.org",
-  "lastExport": 1726694169980,
+  "lastExport": 1726695659701,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-dark",
   "useCustomHeadContent": false,
@@ -103,7 +103,7 @@
     "Модули/Фотогаллереия/Модуль Фотогаллерея.md",
     "Модули/Глоссарий.md",
     "Модули/Каталог.md",
-    "Модули/Список модулей.md",
+    "Модули/Модули.md",
     "advayta_org.md",
     "Вопросы по сайту.md",
     "Ссылки.md",
@@ -136,6 +136,7 @@
     "lib/media/favicon.svg",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
@@ -199,6 +200,7 @@
     "lib/media/favicon.svg",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css"
@@ -259,145 +261,145 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1726694169980,
-      "sourceSize": 52919,
+      "modifiedTime": 1726695659701,
+      "sourceSize": 52903,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
@@ -409,31 +411,31 @@
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1726694169980,
-      "sourceSize": 5351,
+      "modifiedTime": 1726695659701,
+      "sourceSize": 4856,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 12922,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -523,7 +525,7 @@
       "dependencies": []
     },
     "lib/media/favicon.svg": {
-      "modifiedTime": 1726694169980,
+      "modifiedTime": 1726695659701,
       "sourceSize": 5968,
       "exportedPath": "lib/media/favicon.svg",
       "dependencies": []
@@ -808,8 +810,8 @@
       ]
     },
     "UX-UI/UX-UI.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 1057,
+      "modifiedTime": 1726695659701,
+      "sourceSize": 1149,
       "exportedPath": "ux-ui/ux-ui.html",
       "dependencies": []
     },
@@ -876,8 +878,8 @@
       ]
     },
     "UX-UI/Фичи UI.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 485,
+      "modifiedTime": 1726695659701,
+      "sourceSize": 382,
       "exportedPath": "ux-ui/фичи-ui.html",
       "dependencies": []
     },
@@ -1199,15 +1201,9 @@
       "exportedPath": "модули/каталог.html",
       "dependencies": []
     },
-    "Модули/Список модулей.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 1043,
-      "exportedPath": "модули/список-модулей.html",
-      "dependencies": []
-    },
     "advayta_org.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 350,
+      "modifiedTime": 1726695659701,
+      "sourceSize": 335,
       "exportedPath": "advayta_org.html",
       "dependencies": []
     },
@@ -1245,6 +1241,18 @@
       "modifiedTime": 1726694044621,
       "sourceSize": 68568,
       "exportedPath": "data/pasted-image-20240910152120.png",
+      "dependencies": []
+    },
+    "Модули/Модули.md": {
+      "modifiedTime": 1726695659701,
+      "sourceSize": 1076,
+      "exportedPath": "модули/модули.html",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1726695659701,
+      "sourceSize": 2910,
+      "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     }
   }
