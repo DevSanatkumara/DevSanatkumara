@@ -1,11 +1,15 @@
 {
   "vaultName": "advayta.org",
-  "lastExport": 1727306526008,
+  "lastExport": 1728297148425,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
+    "Calendar/Calendar.md",
+    "Calendar/(Every M) Общий митинг.md",
+    "data/Cкорость воспроизведения 1.png",
+    "data/Cкорость воспроизведения 2.png",
     "data/Pasted image 20240910141006.png",
     "data/Pasted image 20240910152120.png",
     "data/Pasted image 20240910223748.png",
@@ -56,9 +60,13 @@
     "data/Pasted image 20240922172054.png",
     "data/Pasted image 20240922172136.png",
     "data/Pasted image 20240923162621.png",
+    "data/Pasted image 20240930131202.png",
+    "data/Аудиоплеер-20240930130908.html",
     "data/Боковое меню.jpg",
     "data/Верхнее меню.jpg",
+    "data/Вид плеера.png",
     "data/Главная страница.jpg",
+    "data/Кнопки быстрой перемотки.png",
     "data/Магические иконки 1.jpg",
     "data/Магические иконки 2.jpg",
     "data/Магические иконки 3.jpg",
@@ -76,7 +84,6 @@
     "UX-UI/Рефы от Гуру.md",
     "UX-UI/Ссылки UI.md",
     "UX-UI/Фичи UI.md",
-    "Анализ структуры сайта/image1.md",
     "Анализ структуры сайта/Анализ структуры сайта.md",
     "Карта сайта/Ашрамы и центры/Ашрамы и центры.md",
     "Карта сайта/Гуру/Гуру.md",
@@ -114,45 +121,8 @@
     "Карта сайта/Стать учеником.md",
     "Карта сайта/Учение.md",
     "Карта сайта/Ученики Гуру.md",
+    "Карта сайта/Форум.md",
     "Карта сайта/язык.md",
-    "Карта сайта Backup/Ашрамы и центры/Ашрамы и центры.md",
-    "Карта сайта Backup/Гуру/Гуру.md",
-    "Карта сайта Backup/Религия и философия/Религия и философия.md",
-    "Карта сайта Backup/Религия и философия/Санатана Дхарма.md",
-    "Карта сайта Backup/Аудиолекции.md",
-    "Карта сайта Backup/Библиотека.md",
-    "Карта сайта Backup/Бхаджаны.md",
-    "Карта сайта Backup/Видеосатсанги.md",
-    "Карта сайта Backup/Все мантры.md",
-    "Карта сайта Backup/Главная.md",
-    "Карта сайта Backup/Деятельноть.md",
-    "Карта сайта Backup/Заказать ритуалы.md",
-    "Карта сайта Backup/Записаться на ритрит.md",
-    "Карта сайта Backup/Карта сайта.md",
-    "Карта сайта Backup/Карта сайта Backup.md",
-    "Карта сайта Backup/Книги и упадеши.md",
-    "Карта сайта Backup/Консультация с монахом.md",
-    "Карта сайта Backup/Личный кабинет.md",
-    "Карта сайта Backup/Медиатека.md",
-    "Карта сайта Backup/Написать письмо.md",
-    "Карта сайта Backup/Наша традиция.md",
-    "Карта сайта Backup/Обновления.md",
-    "Карта сайта Backup/Обучение.md",
-    "Карта сайта Backup/Общая информация.md",
-    "Карта сайта Backup/Община.md",
-    "Карта сайта Backup/Поддержать.md",
-    "Карта сайта Backup/Получить духовное имя.md",
-    "Карта сайта Backup/Приехать в ашрам.md",
-    "Карта сайта Backup/Радио Дхарма.md",
-    "Карта сайта Backup/Расписание ритритов.md",
-    "Карта сайта Backup/Рассылка.md",
-    "Карта сайта Backup/Создать ашрам.md",
-    "Карта сайта Backup/Создать дхарма центр.md",
-    "Карта сайта Backup/Стать санньяси.md",
-    "Карта сайта Backup/Стать учеником.md",
-    "Карта сайта Backup/Учение.md",
-    "Карта сайта Backup/Ученики Гуру.md",
-    "Карта сайта Backup/язык.md",
     "Люди/Александр.md",
     "Люди/Васудева.md",
     "Люди/Видьяранья.md",
@@ -167,10 +137,13 @@
     "Модули/Авторизация/Авторизация для Поиска.md",
     "Модули/Авторизация/Избранное.md",
     "Модули/Авторизация/Личный кабинет.md",
+    "Модули/Авторизация/на.md",
+    "Модули/Авторизация/ОМ.md",
     "Модули/Авторизация/Сквозная авторизация.md",
     "Модули/Аудиогаллерея/Аудиогаллерея.md",
     "Модули/Аудиогаллерея/Лекция.md",
     "Модули/Аудиогаллерея/Плеер.md",
+    "Модули/Аудиоплеер/Аудиоплеер.md",
     "Модули/Библиотека/Библиотека.md",
     "Модули/Библиотека/Каталог книг.md",
     "Модули/Библиотека/Страница с книгой.md",
@@ -215,6 +188,32 @@
     "Ссылки.md",
     "Фичи Идеи.md",
     "Цели сайта.md",
+    "lib/media/pasted-image-20240912170637.png",
+    "lib/media/pasted-image-20240912181016.png",
+    "lib/media/pasted-image-20240914200742.png",
+    "lib/media/pasted-image-20240918004234.png",
+    "lib/media/pasted-image-20240918004347.png",
+    "lib/media/pasted-image-20240918005559.png",
+    "lib/media/pasted-image-20240918010541.png",
+    "lib/media/pasted-image-20240920152139.png",
+    "lib/media/pasted-image-20240921003237.png",
+    "lib/media/pasted-image-20240921013044.png",
+    "lib/media/pasted-image-20240918011203.png",
+    "lib/media/pasted-image-20240918011538.png",
+    "lib/media/pasted-image-20240922010245.png",
+    "lib/media/pasted-image-20240922012504.png",
+    "lib/media/pasted-image-20240922010700.png",
+    "lib/media/pasted-image-20240922011821.png",
+    "lib/media/pasted-image-20240922165251.png",
+    "lib/media/pasted-image-20240922165351.png",
+    "lib/media/pasted-image-20240923162621.png",
+    "lib/media/вид-плеера.png",
+    "lib/media/кнопки-быстрой-перемотки.png",
+    "lib/media/cкорость-воспроизведения-1.png",
+    "lib/media/cкорость-воспроизведения-2.png",
+    "lib/media/pasted-image-20240930131202.png",
+    "lib/media/pasted-image-20240910224435.png",
+    "lib/media/pasted-image-20240913011934.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -263,33 +262,12 @@
     "lib/media/pasted-image-20240913101138.png",
     "lib/media/pasted-image-20240913101210.png",
     "lib/media/pasted-image-20240913101305.png",
-    "lib/media/pasted-image-20240912170637.png",
-    "lib/media/pasted-image-20240912181016.png",
-    "lib/media/pasted-image-20240914200742.png",
-    "lib/media/pasted-image-20240918004234.png",
-    "lib/media/pasted-image-20240918004347.png",
-    "lib/media/pasted-image-20240918005559.png",
-    "lib/media/pasted-image-20240918010541.png",
-    "lib/media/pasted-image-20240920152139.png",
-    "lib/media/pasted-image-20240921003237.png",
-    "lib/media/pasted-image-20240921013044.png",
-    "lib/media/pasted-image-20240918011203.png",
-    "lib/media/pasted-image-20240918011538.png",
-    "lib/media/pasted-image-20240922010245.png",
-    "lib/media/pasted-image-20240922012504.png",
-    "lib/media/pasted-image-20240922010700.png",
-    "lib/media/pasted-image-20240922011821.png",
-    "lib/media/pasted-image-20240922165251.png",
-    "lib/media/pasted-image-20240922165351.png",
-    "lib/media/pasted-image-20240923162621.png",
     "lib/media/pasted-image-20240912160526.png",
     "lib/media/pasted-image-20240911011822.png",
     "lib/media/pasted-image-20240911002350.png",
     "lib/media/pasted-image-20240922171355.png",
     "lib/media/pasted-image-20240922171713.png",
     "lib/media/pasted-image-20240911004421.png",
-    "lib/media/pasted-image-20240910224435.png",
-    "lib/media/pasted-image-20240913011934.png",
     "lib/media/pasted-image-20240921004932.png",
     "lib/media/pasted-image-20240921171158.png",
     "lib/media/pasted-image-20240910223748.png",
@@ -336,13 +314,13 @@
   ],
   "fileInfo": {
     "lib/media/pasted-image-20240912170637.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 265918,
       "exportedPath": "lib/media/pasted-image-20240912170637.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240912181016.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 1065394,
       "exportedPath": "lib/media/pasted-image-20240912181016.png",
       "dependencies": []
@@ -372,13 +350,13 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240910224435.png": {
-      "modifiedTime": 1726954112685,
+      "modifiedTime": 1728297148425,
       "sourceSize": 128406,
       "exportedPath": "lib/media/pasted-image-20240910224435.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240913011934.png": {
-      "modifiedTime": 1726954112685,
+      "modifiedTime": 1728297148425,
       "sourceSize": 313433,
       "exportedPath": "lib/media/pasted-image-20240913011934.png",
       "dependencies": []
@@ -390,145 +368,145 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 197612,
+      "modifiedTime": 1728297148425,
+      "sourceSize": 176827,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
@@ -540,37 +518,37 @@
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 12038,
+      "modifiedTime": 1728297148425,
+      "sourceSize": 8938,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 12922,
+      "modifiedTime": 1728297148425,
+      "sourceSize": 272327,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/media/pasted-image-20240914200742.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 340827,
       "exportedPath": "lib/media/pasted-image-20240914200742.png",
       "dependencies": []
@@ -654,7 +632,7 @@
       "dependencies": []
     },
     "lib/media/favicon.svg": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 5968,
       "exportedPath": "lib/media/favicon.svg",
       "dependencies": []
@@ -672,37 +650,37 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240918004234.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 176789,
       "exportedPath": "lib/media/pasted-image-20240918004234.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240918004347.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 105931,
       "exportedPath": "lib/media/pasted-image-20240918004347.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240918005559.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 295028,
       "exportedPath": "lib/media/pasted-image-20240918005559.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240918010541.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 305769,
       "exportedPath": "lib/media/pasted-image-20240918010541.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240918011203.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 322394,
       "exportedPath": "lib/media/pasted-image-20240918011203.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240918011538.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 402389,
       "exportedPath": "lib/media/pasted-image-20240918011538.png",
       "dependencies": []
@@ -991,8 +969,8 @@
       ]
     },
     "UX-UI/Ссылки UI.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 3477,
+      "modifiedTime": 1728297148425,
+      "sourceSize": 3440,
       "exportedPath": "ux-ui/ссылки-ui.html",
       "dependencies": [
         "lib/media/pasted-image-20240912170637.png",
@@ -1047,8 +1025,8 @@
       "dependencies": []
     },
     "Люди/Наталья.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 214,
+      "modifiedTime": 1728297148425,
+      "sourceSize": 80,
       "exportedPath": "люди/наталья.html",
       "dependencies": []
     },
@@ -1101,8 +1079,8 @@
       "dependencies": []
     },
     "Модули/Аудиогаллерея/Аудиогаллерея.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 3004,
+      "modifiedTime": 1728297148425,
+      "sourceSize": 3104,
       "exportedPath": "модули/аудиогаллерея/аудиогаллерея.html",
       "dependencies": []
     },
@@ -1121,8 +1099,8 @@
       ]
     },
     "Модули/Библиотека/Библиотека.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 7355,
+      "modifiedTime": 1728297148425,
+      "sourceSize": 7367,
       "exportedPath": "модули/библиотека/библиотека.html",
       "dependencies": []
     },
@@ -1146,8 +1124,8 @@
       ]
     },
     "Модули/Библиотека/Читальный зал.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 4043,
+      "modifiedTime": 1728297148425,
+      "sourceSize": 4083,
       "exportedPath": "модули/библиотека/читальный-зал.html",
       "dependencies": [
         "lib/media/pasted-image-20240910224435.png",
@@ -1351,13 +1329,13 @@
       "dependencies": []
     },
     "Модули/Модули.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 1157,
+      "modifiedTime": 1728297148425,
+      "sourceSize": 1181,
       "exportedPath": "модули/модули.html",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1727306526008,
+      "modifiedTime": 1728297148425,
       "sourceSize": 2910,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
@@ -1416,12 +1394,6 @@
       "exportedPath": "data/pasted-image-20240921171556.png",
       "dependencies": []
     },
-    "Анализ структуры сайта/image1.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 0,
-      "exportedPath": "анализ-структуры-сайта/image1.html",
-      "dependencies": []
-    },
     "Карта сайта/Ашрамы и центры/Ашрамы и центры.md": {
       "modifiedTime": 1727213391205,
       "sourceSize": 634,
@@ -1477,8 +1449,8 @@
       "dependencies": []
     },
     "Карта сайта/Главная.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 2450,
+      "modifiedTime": 1728297148425,
+      "sourceSize": 2483,
       "exportedPath": "карта-сайта/главная.html",
       "dependencies": []
     },
@@ -1645,8 +1617,8 @@
       "dependencies": []
     },
     "Люди/Александр.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 76,
+      "modifiedTime": 1728297148425,
+      "sourceSize": 104,
       "exportedPath": "люди/александр.html",
       "dependencies": []
     },
@@ -1710,19 +1682,19 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240920152139.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 174968,
       "exportedPath": "lib/media/pasted-image-20240920152139.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240921003237.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 1028780,
       "exportedPath": "lib/media/pasted-image-20240921003237.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240921013044.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 638962,
       "exportedPath": "lib/media/pasted-image-20240921013044.png",
       "dependencies": []
@@ -1875,43 +1847,43 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240922010245.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 946503,
       "exportedPath": "lib/media/pasted-image-20240922010245.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922012504.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 1389033,
       "exportedPath": "lib/media/pasted-image-20240922012504.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922010700.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 1056964,
       "exportedPath": "lib/media/pasted-image-20240922010700.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922011821.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 258178,
       "exportedPath": "lib/media/pasted-image-20240922011821.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922165251.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 456966,
       "exportedPath": "lib/media/pasted-image-20240922165251.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922165351.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 388234,
       "exportedPath": "lib/media/pasted-image-20240922165351.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240923162621.png": {
-      "modifiedTime": 1727213391205,
+      "modifiedTime": 1728297148425,
       "sourceSize": 54926,
       "exportedPath": "lib/media/pasted-image-20240923162621.png",
       "dependencies": []
@@ -1946,234 +1918,6 @@
       "exportedPath": "lib/media/pasted-image-20240922172136.png",
       "dependencies": []
     },
-    "Карта сайта Backup/Ашрамы и центры/Ашрамы и центры.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 634,
-      "exportedPath": "карта-сайта-backup/ашрамы-и-центры/ашрамы-и-центры.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Гуру/Гуру.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 465,
-      "exportedPath": "карта-сайта-backup/гуру/гуру.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Религия и философия/Религия и философия.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 721,
-      "exportedPath": "карта-сайта-backup/религия-и-философия/религия-и-философия.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Религия и философия/Санатана Дхарма.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 325,
-      "exportedPath": "карта-сайта-backup/религия-и-философия/санатана-дхарма.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Аудиолекции.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/аудиолекции.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Библиотека.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 403,
-      "exportedPath": "карта-сайта-backup/библиотека.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Бхаджаны.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/бхаджаны.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Видеосатсанги.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/видеосатсанги.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Все мантры.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/все-мантры.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Главная.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 2688,
-      "exportedPath": "карта-сайта-backup/главная.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Деятельноть.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 425,
-      "exportedPath": "карта-сайта-backup/деятельноть.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Заказать ритуалы.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/заказать-ритуалы.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Записаться на ритрит.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/записаться-на-ритрит.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Карта сайта.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 76,
-      "exportedPath": "карта-сайта-backup/карта-сайта.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Карта сайта Backup.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 80,
-      "exportedPath": "карта-сайта-backup/карта-сайта-backup.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Книги и упадеши.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/книги-и-упадеши.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Консультация с монахом.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 80,
-      "exportedPath": "карта-сайта-backup/консультация-с-монахом.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Личный кабинет.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/личный-кабинет.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Медиатека.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 440,
-      "exportedPath": "карта-сайта-backup/медиатека.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Написать письмо.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/написать-письмо.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Наша традиция.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 665,
-      "exportedPath": "карта-сайта-backup/наша-традиция.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Обновления.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/обновления.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Обучение.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 327,
-      "exportedPath": "карта-сайта-backup/обучение.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Общая информация.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 80,
-      "exportedPath": "карта-сайта-backup/общая-информация.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Община.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 528,
-      "exportedPath": "карта-сайта-backup/община.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Поддержать.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/поддержать.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Получить духовное имя.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/получить-духовное-имя.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Приехать в ашрам.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/приехать-в-ашрам.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Радио Дхарма.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/радио-дхарма.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Расписание ритритов.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 80,
-      "exportedPath": "карта-сайта-backup/расписание-ритритов.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Рассылка.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/рассылка.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Создать ашрам.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/создать-ашрам.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Создать дхарма центр.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/создать-дхарма-центр.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Стать санньяси.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/стать-санньяси.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Стать учеником.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 288,
-      "exportedPath": "карта-сайта-backup/стать-учеником.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Учение.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 76,
-      "exportedPath": "карта-сайта-backup/учение.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/Ученики Гуру.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 268,
-      "exportedPath": "карта-сайта-backup/ученики-гуру.html",
-      "dependencies": []
-    },
-    "Карта сайта Backup/язык.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта-backup/язык.html",
-      "dependencies": []
-    },
     "Модули/Авторизация/Авторизация.md": {
       "modifiedTime": 1727306526008,
       "sourceSize": 1296,
@@ -2184,6 +1928,114 @@
       "modifiedTime": 1727306526008,
       "sourceSize": 471,
       "exportedPath": "модули/авторизация/личный-кабинет.html",
+      "dependencies": []
+    },
+    "Calendar/Calendar.md": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 0,
+      "exportedPath": "calendar/calendar.html",
+      "dependencies": []
+    },
+    "Calendar/(Every M) Общий митинг.md": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 140,
+      "exportedPath": "calendar/(every-m)-общий-митинг.html",
+      "dependencies": []
+    },
+    "data/Cкорость воспроизведения 1.png": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 10558,
+      "exportedPath": "data/cкорость-воспроизведения-1.png",
+      "dependencies": []
+    },
+    "data/Cкорость воспроизведения 2.png": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 7801,
+      "exportedPath": "data/cкорость-воспроизведения-2.png",
+      "dependencies": []
+    },
+    "data/Pasted image 20240930131202.png": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 35504,
+      "exportedPath": "data/pasted-image-20240930131202.png",
+      "dependencies": []
+    },
+    "data/Аудиоплеер-20240930130908.html": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 767297,
+      "exportedPath": "data/аудиоплеер-20240930130908.html",
+      "dependencies": []
+    },
+    "data/Вид плеера.png": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 13534,
+      "exportedPath": "data/вид-плеера.png",
+      "dependencies": []
+    },
+    "data/Кнопки быстрой перемотки.png": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 2736,
+      "exportedPath": "data/кнопки-быстрой-перемотки.png",
+      "dependencies": []
+    },
+    "Карта сайта/Форум.md": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 80,
+      "exportedPath": "карта-сайта/форум.html",
+      "dependencies": []
+    },
+    "Модули/Авторизация/на.md": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 0,
+      "exportedPath": "модули/авторизация/на.html",
+      "dependencies": []
+    },
+    "Модули/Авторизация/ОМ.md": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 60,
+      "exportedPath": "модули/авторизация/ом.html",
+      "dependencies": []
+    },
+    "Модули/Аудиоплеер/Аудиоплеер.md": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 8057,
+      "exportedPath": "модули/аудиоплеер/аудиоплеер.html",
+      "dependencies": [
+        "lib/media/вид-плеера.png",
+        "lib/media/кнопки-быстрой-перемотки.png",
+        "lib/media/cкорость-воспроизведения-1.png",
+        "lib/media/cкорость-воспроизведения-2.png",
+        "lib/media/pasted-image-20240930131202.png"
+      ]
+    },
+    "lib/media/вид-плеера.png": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 13534,
+      "exportedPath": "lib/media/вид-плеера.png",
+      "dependencies": []
+    },
+    "lib/media/кнопки-быстрой-перемотки.png": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 2736,
+      "exportedPath": "lib/media/кнопки-быстрой-перемотки.png",
+      "dependencies": []
+    },
+    "lib/media/cкорость-воспроизведения-1.png": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 10558,
+      "exportedPath": "lib/media/cкорость-воспроизведения-1.png",
+      "dependencies": []
+    },
+    "lib/media/cкорость-воспроизведения-2.png": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 7801,
+      "exportedPath": "lib/media/cкорость-воспроизведения-2.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930131202.png": {
+      "modifiedTime": 1728297148425,
+      "sourceSize": 35504,
+      "exportedPath": "lib/media/pasted-image-20240930131202.png",
       "dependencies": []
     }
   }
