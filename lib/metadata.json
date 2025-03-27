@@ -1,6 +1,6 @@
 {
   "vaultName": "Svadhyaya",
-  "lastExport": 1743103024254,
+  "lastExport": 1743103843538,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon hide-folder-note folder-note-underline-path fn-whitespace-stop-collapsing",
   "useCustomHeadContent": false,
@@ -8,9 +8,9 @@
   "files": [
     "10 курс/1 неделя/1 Обучение и садхана в лайя-йоге с опорой на три ведантических принципа.md",
     "10 курс/1 неделя/2 Шравана в традиции лайя-йоги, устная передача, пратьябхиджня-даршан, аналогии, связанные с 5 элементами, передача вне слов.md",
-    "10 курс/1 неделя/3 Манана в традиции Лайя-йоги, 3 и 8 аналогий в описании естественного состояния, преодоление отклонений и сомнений в определении естественного состояния.md",
+    "10 курс/1 неделя/3 Манана в традиции Лайя-йоги.md",
     "10 курс/1 неделя/4 Становление на путь созерцательного недеяния, наставления о недеянии и отпускании себя, состояние достижения сахаджи.md",
-    "10 курс/1 неделя/5 Нидидхьясана в традиции лайя-йоги, главное наставление для нидидхьясаны, объединение и интеграция с энергиями, постоянная практика самоосвобождения.md",
+    "10 курс/1 неделя/5 Нидидхьясана в традиции лайя-йоги.md",
     "10 курс/1 неделя/6 Стадии поддержания непрерывного созерцания.md",
     "10 курс/1 неделя/7 Уровни углубления естественного состояния.md",
     "10 курс/1 неделя/15 Уникальность Лайя-йоги и пути сахаджаяны как квинтесенции и вершины всех духовных путей.md",
@@ -45,7 +45,8 @@
     "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "10-курс/1-неделя/пять-янтр.-схема.jpg"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -81,55 +82,43 @@
   ],
   "fileInfo": {
     "10 курс/1 неделя/1 Обучение и садхана в лайя-йоге с опорой на три ведантических принципа.md": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 4385,
       "exportedPath": "10-курс/1-неделя/1-обучение-и-садхана-в-лайя-йоге-с-опорой-на-три-ведантических-принципа.html",
       "dependencies": []
     },
     "10 курс/1 неделя/2 Шравана в традиции лайя-йоги, устная передача, пратьябхиджня-даршан, аналогии, связанные с 5 элементами, передача вне слов.md": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 23876,
       "exportedPath": "10-курс/1-неделя/2-шравана-в-традиции-лайя-йоги,-устная-передача,-пратьябхиджня-даршан,-аналогии,-связанные-с-5-элементами,-передача-вне-слов.html",
       "dependencies": []
     },
-    "10 курс/1 неделя/3 Манана в традиции Лайя-йоги, 3 и 8 аналогий в описании естественного состояния, преодоление отклонений и сомнений в определении естественного состояния.md": {
-      "modifiedTime": 1743103024254,
-      "sourceSize": 19687,
-      "exportedPath": "10-курс/1-неделя/3-манана-в-традиции-лайя-йоги,-3-и-8-аналогий-в-описании-естественного-состояния,-преодоление-отклонений-и-сомнений-в-определении-естественного-состояния.html",
-      "dependencies": []
-    },
     "10 курс/1 неделя/4 Становление на путь созерцательного недеяния, наставления о недеянии и отпускании себя, состояние достижения сахаджи.md": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 20828,
       "exportedPath": "10-курс/1-неделя/4-становление-на-путь-созерцательного-недеяния,-наставления-о-недеянии-и-отпускании-себя,-состояние-достижения-сахаджи.html",
       "dependencies": []
     },
-    "10 курс/1 неделя/5 Нидидхьясана в традиции лайя-йоги, главное наставление для нидидхьясаны, объединение и интеграция с энергиями, постоянная практика самоосвобождения.md": {
-      "modifiedTime": 1743103024254,
-      "sourceSize": 18281,
-      "exportedPath": "10-курс/1-неделя/5-нидидхьясана-в-традиции-лайя-йоги,-главное-наставление-для-нидидхьясаны,-объединение-и-интеграция-с-энергиями,-постоянная-практика-самоосвобождения.html",
-      "dependencies": []
-    },
     "10 курс/1 неделя/6 Стадии поддержания непрерывного созерцания.md": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 2454,
       "exportedPath": "10-курс/1-неделя/6-стадии-поддержания-непрерывного-созерцания.html",
       "dependencies": []
     },
     "10 курс/1 неделя/7 Уровни углубления естественного состояния.md": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 16586,
       "exportedPath": "10-курс/1-неделя/7-уровни-углубления-естественного-состояния.html",
       "dependencies": []
     },
     "10 курс/1 неделя/15 Уникальность Лайя-йоги и пути сахаджаяны как квинтесенции и вершины всех духовных путей.md": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 15831,
       "exportedPath": "10-курс/1-неделя/15-уникальность-лайя-йоги-и-пути-сахаджаяны-как-квинтесенции-и-вершины-всех-духовных-путей.html",
       "dependencies": []
     },
     "10 курс/1 неделя/16 Общая структура учения Лайя-йоги - 5 янтр.md": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 12958,
       "exportedPath": "10-курс/1-неделя/16-общая-структура-учения-лайя-йоги-5-янтр.html",
       "dependencies": [
@@ -137,195 +126,207 @@
       ]
     },
     "10 курс/1 неделя/Пять янтр. Схема.jpg": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 92953,
       "exportedPath": "10-курс/1-неделя/пять-янтр.-схема.jpg",
       "dependencies": []
     },
     "10-курс/1-неделя/пять-янтр.-схема.jpg": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 92953,
       "exportedPath": "10-курс/1-неделя/пять-янтр.-схема.jpg",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1743103024254,
-      "sourceSize": 6758,
+      "modifiedTime": 1743103843538,
+      "sourceSize": 6282,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.svg": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 5968,
       "exportedPath": "lib/media/favicon.svg",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1743103024254,
-      "sourceSize": 2207,
+      "modifiedTime": 1743103843538,
+      "sourceSize": 1731,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 137567,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 7775,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 12922,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1743103024254,
+      "modifiedTime": 1743103843538,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "10 курс/1 неделя/3 Манана в традиции Лайя-йоги.md": {
+      "modifiedTime": 1743103843538,
+      "sourceSize": 19687,
+      "exportedPath": "10-курс/1-неделя/3-манана-в-традиции-лайя-йоги.html",
+      "dependencies": []
+    },
+    "10 курс/1 неделя/5 Нидидхьясана в традиции лайя-йоги.md": {
+      "modifiedTime": 1743103843538,
+      "sourceSize": 18281,
+      "exportedPath": "10-курс/1-неделя/5-нидидхьясана-в-традиции-лайя-йоги.html",
       "dependencies": []
     }
   }
