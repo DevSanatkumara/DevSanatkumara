@@ -1,219 +1,21 @@
 {
-  "vaultName": "advayta.org",
-  "lastExport": 1728297148425,
+  "vaultName": "Svadhyaya",
+  "lastExport": 1743103024254,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon hide-folder-note folder-note-underline-path fn-whitespace-stop-collapsing",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
-    "Calendar/Calendar.md",
-    "Calendar/(Every M) Общий митинг.md",
-    "data/Cкорость воспроизведения 1.png",
-    "data/Cкорость воспроизведения 2.png",
-    "data/Pasted image 20240910141006.png",
-    "data/Pasted image 20240910152120.png",
-    "data/Pasted image 20240910223748.png",
-    "data/Pasted image 20240910224431.png",
-    "data/Pasted image 20240910224435.png",
-    "data/Pasted image 20240910230749.png",
-    "data/Pasted image 20240911001856.png",
-    "data/Pasted image 20240911002350.png",
-    "data/Pasted image 20240911004421.png",
-    "data/Pasted image 20240911011822.png",
-    "data/Pasted image 20240911013547.png",
-    "data/Pasted image 20240912160526.png",
-    "data/Pasted image 20240912170637.png",
-    "data/Pasted image 20240912181016.png",
-    "data/Pasted image 20240913011934.png",
-    "data/Pasted image 20240913101138.png",
-    "data/Pasted image 20240913101210.png",
-    "data/Pasted image 20240913101305.png",
-    "data/Pasted image 20240914200742.png",
-    "data/Pasted image 20240918001612.png",
-    "data/Pasted image 20240918003906.png",
-    "data/Pasted image 20240918004234.png",
-    "data/Pasted image 20240918004347.png",
-    "data/Pasted image 20240918005559.png",
-    "data/Pasted image 20240918010541.png",
-    "data/Pasted image 20240918011203.png",
-    "data/Pasted image 20240918011538.png",
-    "data/Pasted image 20240920152139.png",
-    "data/Pasted image 20240920235517.png",
-    "data/Pasted image 20240920235720.png",
-    "data/Pasted image 20240920235814.png",
-    "data/Pasted image 20240921003237.png",
-    "data/Pasted image 20240921004932.png",
-    "data/Pasted image 20240921013044.png",
-    "data/Pasted image 20240921171158.png",
-    "data/Pasted image 20240921171556.png",
-    "data/Pasted image 20240922010245.png",
-    "data/Pasted image 20240922010700.png",
-    "data/Pasted image 20240922011821.png",
-    "data/Pasted image 20240922012504.png",
-    "data/Pasted image 20240922165251.png",
-    "data/Pasted image 20240922165351.png",
-    "data/Pasted image 20240922171355.png",
-    "data/Pasted image 20240922171536.png",
-    "data/Pasted image 20240922171713.png",
-    "data/Pasted image 20240922171826.png",
-    "data/Pasted image 20240922172020.png",
-    "data/Pasted image 20240922172054.png",
-    "data/Pasted image 20240922172136.png",
-    "data/Pasted image 20240923162621.png",
-    "data/Pasted image 20240930131202.png",
-    "data/Аудиоплеер-20240930130908.html",
-    "data/Боковое меню.jpg",
-    "data/Верхнее меню.jpg",
-    "data/Вид плеера.png",
-    "data/Главная страница.jpg",
-    "data/Кнопки быстрой перемотки.png",
-    "data/Магические иконки 1.jpg",
-    "data/Магические иконки 2.jpg",
-    "data/Магические иконки 3.jpg",
-    "data/Радио Дхарма.jpg",
-    "data/Размента сайта. Правки 1.jpg",
-    "data/Размента сайта. Правки 2.jpg",
-    "data/Размента сайта. Правки 3.jpg",
-    "UX-UI/UX Поиск.md",
-    "UX-UI/UX-UI.md",
-    "UX-UI/Изначальная постановка задачи по дизайну.md",
-    "UX-UI/Инфографика.md",
-    "UX-UI/Консультация c UX дизайнером.md",
-    "UX-UI/Пожелания по структуре сайта от Гуру.md",
-    "UX-UI/Прототип от Свастидеви.md",
-    "UX-UI/Рефы от Гуру.md",
-    "UX-UI/Ссылки UI.md",
-    "UX-UI/Фичи UI.md",
-    "Анализ структуры сайта/Анализ структуры сайта.md",
-    "Карта сайта/Ашрамы и центры/Ашрамы и центры.md",
-    "Карта сайта/Гуру/Гуру.md",
-    "Карта сайта/Религия и философия/Религия и философия.md",
-    "Карта сайта/Религия и философия/Санатана Дхарма.md",
-    "Карта сайта/Аудиолекции.md",
-    "Карта сайта/Библиотека.md",
-    "Карта сайта/Бхаджаны.md",
-    "Карта сайта/Видеосатсанги.md",
-    "Карта сайта/Все мантры.md",
-    "Карта сайта/Главная.md",
-    "Карта сайта/Деятельноть.md",
-    "Карта сайта/Заказать ритуалы.md",
-    "Карта сайта/Записаться на ритрит.md",
-    "Карта сайта/Карта сайта.md",
-    "Карта сайта/Книги и упадеши.md",
-    "Карта сайта/Консультация с монахом.md",
-    "Карта сайта/Личный кабинет.md",
-    "Карта сайта/Медиатека.md",
-    "Карта сайта/Написать письмо.md",
-    "Карта сайта/Наша традиция.md",
-    "Карта сайта/Обновления.md",
-    "Карта сайта/Обучение.md",
-    "Карта сайта/Общая информация.md",
-    "Карта сайта/Община.md",
-    "Карта сайта/Поддержать.md",
-    "Карта сайта/Получить духовное имя.md",
-    "Карта сайта/Приехать в ашрам.md",
-    "Карта сайта/Радио Дхарма.md",
-    "Карта сайта/Расписание ритритов.md",
-    "Карта сайта/Рассылка.md",
-    "Карта сайта/Создать ашрам.md",
-    "Карта сайта/Создать дхарма центр.md",
-    "Карта сайта/Стать санньяси.md",
-    "Карта сайта/Стать учеником.md",
-    "Карта сайта/Учение.md",
-    "Карта сайта/Ученики Гуру.md",
-    "Карта сайта/Форум.md",
-    "Карта сайта/язык.md",
-    "Люди/Александр.md",
-    "Люди/Васудева.md",
-    "Люди/Видьяранья.md",
-    "Люди/Егорушкин Сергей.md",
-    "Люди/Наталья.md",
-    "Люди/Нитья.md",
-    "Люди/Петр Гуськов.md",
-    "Люди/Свастидеви.md",
-    "Модули/Авторизация/User Пользователь.md",
-    "Модули/Авторизация/Авторизация.md",
-    "Модули/Авторизация/Авторизация для Аудиомодуля.md",
-    "Модули/Авторизация/Авторизация для Поиска.md",
-    "Модули/Авторизация/Избранное.md",
-    "Модули/Авторизация/Личный кабинет.md",
-    "Модули/Авторизация/на.md",
-    "Модули/Авторизация/ОМ.md",
-    "Модули/Авторизация/Сквозная авторизация.md",
-    "Модули/Аудиогаллерея/Аудиогаллерея.md",
-    "Модули/Аудиогаллерея/Лекция.md",
-    "Модули/Аудиогаллерея/Плеер.md",
-    "Модули/Аудиоплеер/Аудиоплеер.md",
-    "Модули/Библиотека/Библиотека.md",
-    "Модули/Библиотека/Каталог книг.md",
-    "Модули/Библиотека/Страница с книгой.md",
-    "Модули/Библиотека/Читальный зал.md",
-    "Модули/Видеогаллерея/Видеогаллерея.md",
-    "Модули/Видеогаллерея/Страничка с видео.md",
-    "Модули/Древо Прибежища/Модуль Древо Прибежища.md",
-    "Модули/Дхарма википедия/Модуль Дхарма википедия.md",
-    "Модули/ИИ/Анализ естественного языка.md",
-    "Модули/ИИ/ИИ.md",
-    "Модули/ИИ/ИИ в Аудиомодуле.md",
-    "Модули/ИИ/ИИ в читальном зале.md",
-    "Модули/Институт Васиштхи/Институт Васиштхи.md",
-    "Модули/Календарь/Модуль Календарь.md",
-    "Модули/Контакты/Модуль Контакты.md",
-    "Модули/Магазин/Модуль Магазин.md",
-    "Модули/Мантра дня/Мантра дня.md",
-    "Модули/Наши ресурсы (ссылки)/Модуль Наши ресурсы (ссылки).md",
-    "Модули/Новости/Модуль Новости.md",
-    "Модули/Обьявления/Обьявления.md",
-    "Модули/Подписка/Модуль Подписка.md",
-    "Модули/Подписка/Функции подписки в аудиомодуле.md",
-    "Модули/Подписка/Функции подписки в библиотеке.md",
-    "Модули/Пожертвования и проекты/Модуль Пожертвования и Проекты.md",
-    "Модули/Поиск/Поиск.md",
-    "Модули/Поиск/Поиск в библиотеке.md",
-    "Модули/Поиск/Поиск по видегаллерее.md",
-    "Модули/Поиск/Поиск по сайту.md",
-    "Модули/Поиск/Поиск Сортировка Фильтры в аудиогаллерее.md",
-    "Модули/Поиск/Технические требования к Поиску.md",
-    "Модули/Радио/Модул Радио.md",
-    "Модули/Реклама/Реклама.md",
-    "Модули/Форум/Форум.md",
-    "Модули/Фотогаллерея/Ссылки на фотогаллереи.md",
-    "Модули/Фотогаллерея/Фотогаллерея.md",
-    "Модули/Глоссарий.md",
-    "Модули/Каталог.md",
-    "Модули/Модули.md",
-    "advayta_org.md",
-    "Вопросы по сайту.md",
-    "Жизнь общины.md",
-    "Ссылки.md",
-    "Фичи Идеи.md",
-    "Цели сайта.md",
-    "lib/media/pasted-image-20240912170637.png",
-    "lib/media/pasted-image-20240912181016.png",
-    "lib/media/pasted-image-20240914200742.png",
-    "lib/media/pasted-image-20240918004234.png",
-    "lib/media/pasted-image-20240918004347.png",
-    "lib/media/pasted-image-20240918005559.png",
-    "lib/media/pasted-image-20240918010541.png",
-    "lib/media/pasted-image-20240920152139.png",
-    "lib/media/pasted-image-20240921003237.png",
-    "lib/media/pasted-image-20240921013044.png",
-    "lib/media/pasted-image-20240918011203.png",
-    "lib/media/pasted-image-20240918011538.png",
-    "lib/media/pasted-image-20240922010245.png",
-    "lib/media/pasted-image-20240922012504.png",
-    "lib/media/pasted-image-20240922010700.png",
-    "lib/media/pasted-image-20240922011821.png",
-    "lib/media/pasted-image-20240922165251.png",
-    "lib/media/pasted-image-20240922165351.png",
-    "lib/media/pasted-image-20240923162621.png",
-    "lib/media/вид-плеера.png",
-    "lib/media/кнопки-быстрой-перемотки.png",
-    "lib/media/cкорость-воспроизведения-1.png",
-    "lib/media/cкорость-воспроизведения-2.png",
-    "lib/media/pasted-image-20240930131202.png",
-    "lib/media/pasted-image-20240910224435.png",
-    "lib/media/pasted-image-20240913011934.png",
+    "10 курс/1 неделя/1 Обучение и садхана в лайя-йоге с опорой на три ведантических принципа.md",
+    "10 курс/1 неделя/2 Шравана в традиции лайя-йоги, устная передача, пратьябхиджня-даршан, аналогии, связанные с 5 элементами, передача вне слов.md",
+    "10 курс/1 неделя/3 Манана в традиции Лайя-йоги, 3 и 8 аналогий в описании естественного состояния, преодоление отклонений и сомнений в определении естественного состояния.md",
+    "10 курс/1 неделя/4 Становление на путь созерцательного недеяния, наставления о недеянии и отпускании себя, состояние достижения сахаджи.md",
+    "10 курс/1 неделя/5 Нидидхьясана в традиции лайя-йоги, главное наставление для нидидхьясаны, объединение и интеграция с энергиями, постоянная практика самоосвобождения.md",
+    "10 курс/1 неделя/6 Стадии поддержания непрерывного созерцания.md",
+    "10 курс/1 неделя/7 Уровни углубления естественного состояния.md",
+    "10 курс/1 неделя/15 Уникальность Лайя-йоги и пути сахаджаяны как квинтесенции и вершины всех духовных путей.md",
+    "10 курс/1 неделя/16 Общая структура учения Лайя-йоги - 5 янтр.md",
+    "10 курс/1 неделя/Пять янтр. Схема.jpg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -228,8 +30,7 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/media/6155340132a851f6089e.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -244,40 +45,7 @@
     "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css",
-    "lib/media/pasted-image-20240918001612.png",
-    "lib/media/pasted-image-20240918003906.png",
-    "lib/media/pasted-image-20240922171536.png",
-    "lib/media/pasted-image-20240922171826.png",
-    "lib/media/размента-сайта.-правки-1.jpg",
-    "lib/media/размента-сайта.-правки-2.jpg",
-    "lib/media/размента-сайта.-правки-3.jpg",
-    "lib/media/верхнее-меню.jpg",
-    "lib/media/главная-страница.jpg",
-    "lib/media/радио-дхарма.jpg",
-    "lib/media/боковое-меню.jpg",
-    "lib/media/магические-иконки-1.jpg",
-    "lib/media/магические-иконки-2.jpg",
-    "lib/media/магические-иконки-3.jpg",
-    "lib/media/pasted-image-20240913101138.png",
-    "lib/media/pasted-image-20240913101210.png",
-    "lib/media/pasted-image-20240913101305.png",
-    "lib/media/pasted-image-20240912160526.png",
-    "lib/media/pasted-image-20240911011822.png",
-    "lib/media/pasted-image-20240911002350.png",
-    "lib/media/pasted-image-20240922171355.png",
-    "lib/media/pasted-image-20240922171713.png",
-    "lib/media/pasted-image-20240911004421.png",
-    "lib/media/pasted-image-20240921004932.png",
-    "lib/media/pasted-image-20240921171158.png",
-    "lib/media/pasted-image-20240910223748.png",
-    "lib/media/pasted-image-20240921171556.png",
-    "lib/media/pasted-image-20240920235517.png",
-    "lib/media/pasted-image-20240920235720.png",
-    "lib/media/pasted-image-20240920235814.png",
-    "lib/media/pasted-image-20240922172020.png",
-    "lib/media/pasted-image-20240922172054.png",
-    "lib/media/pasted-image-20240922172136.png"
+    "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -294,8 +62,7 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/media/6155340132a851f6089e.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -313,1729 +80,252 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "lib/media/pasted-image-20240912170637.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 265918,
-      "exportedPath": "lib/media/pasted-image-20240912170637.png",
+    "10 курс/1 неделя/1 Обучение и садхана в лайя-йоге с опорой на три ведантических принципа.md": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 4385,
+      "exportedPath": "10-курс/1-неделя/1-обучение-и-садхана-в-лайя-йоге-с-опорой-на-три-ведантических-принципа.html",
       "dependencies": []
     },
-    "lib/media/pasted-image-20240912181016.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 1065394,
-      "exportedPath": "lib/media/pasted-image-20240912181016.png",
+    "10 курс/1 неделя/2 Шравана в традиции лайя-йоги, устная передача, пратьябхиджня-даршан, аналогии, связанные с 5 элементами, передача вне слов.md": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 23876,
+      "exportedPath": "10-курс/1-неделя/2-шравана-в-традиции-лайя-йоги,-устная-передача,-пратьябхиджня-даршан,-аналогии,-связанные-с-5-элементами,-передача-вне-слов.html",
       "dependencies": []
     },
-    "lib/media/pasted-image-20240912160526.png": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 148098,
-      "exportedPath": "lib/media/pasted-image-20240912160526.png",
+    "10 курс/1 неделя/3 Манана в традиции Лайя-йоги, 3 и 8 аналогий в описании естественного состояния, преодоление отклонений и сомнений в определении естественного состояния.md": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 19687,
+      "exportedPath": "10-курс/1-неделя/3-манана-в-традиции-лайя-йоги,-3-и-8-аналогий-в-описании-естественного-состояния,-преодоление-отклонений-и-сомнений-в-определении-естественного-состояния.html",
       "dependencies": []
     },
-    "lib/media/pasted-image-20240911011822.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 237103,
-      "exportedPath": "lib/media/pasted-image-20240911011822.png",
+    "10 курс/1 неделя/4 Становление на путь созерцательного недеяния, наставления о недеянии и отпускании себя, состояние достижения сахаджи.md": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 20828,
+      "exportedPath": "10-курс/1-неделя/4-становление-на-путь-созерцательного-недеяния,-наставления-о-недеянии-и-отпускании-себя,-состояние-достижения-сахаджи.html",
       "dependencies": []
     },
-    "lib/media/pasted-image-20240911002350.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 115058,
-      "exportedPath": "lib/media/pasted-image-20240911002350.png",
+    "10 курс/1 неделя/5 Нидидхьясана в традиции лайя-йоги, главное наставление для нидидхьясаны, объединение и интеграция с энергиями, постоянная практика самоосвобождения.md": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 18281,
+      "exportedPath": "10-курс/1-неделя/5-нидидхьясана-в-традиции-лайя-йоги,-главное-наставление-для-нидидхьясаны,-объединение-и-интеграция-с-энергиями,-постоянная-практика-самоосвобождения.html",
       "dependencies": []
     },
-    "lib/media/pasted-image-20240911004421.png": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 113029,
-      "exportedPath": "lib/media/pasted-image-20240911004421.png",
+    "10 курс/1 неделя/6 Стадии поддержания непрерывного созерцания.md": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 2454,
+      "exportedPath": "10-курс/1-неделя/6-стадии-поддержания-непрерывного-созерцания.html",
       "dependencies": []
     },
-    "lib/media/pasted-image-20240910224435.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 128406,
-      "exportedPath": "lib/media/pasted-image-20240910224435.png",
+    "10 курс/1 неделя/7 Уровни углубления естественного состояния.md": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 16586,
+      "exportedPath": "10-курс/1-неделя/7-уровни-углубления-естественного-состояния.html",
       "dependencies": []
     },
-    "lib/media/pasted-image-20240913011934.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 313433,
-      "exportedPath": "lib/media/pasted-image-20240913011934.png",
+    "10 курс/1 неделя/15 Уникальность Лайя-йоги и пути сахаджаяны как квинтесенции и вершины всех духовных путей.md": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 15831,
+      "exportedPath": "10-курс/1-неделя/15-уникальность-лайя-йоги-и-пути-сахаджаяны-как-квинтесенции-и-вершины-всех-духовных-путей.html",
       "dependencies": []
     },
-    "lib/media/pasted-image-20240910223748.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 54238,
-      "exportedPath": "lib/media/pasted-image-20240910223748.png",
+    "10 курс/1 неделя/16 Общая структура учения Лайя-йоги - 5 янтр.md": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 12958,
+      "exportedPath": "10-курс/1-неделя/16-общая-структура-учения-лайя-йоги-5-янтр.html",
+      "dependencies": [
+        "10-курс/1-неделя/пять-янтр.-схема.jpg"
+      ]
+    },
+    "10 курс/1 неделя/Пять янтр. Схема.jpg": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 92953,
+      "exportedPath": "10-курс/1-неделя/пять-янтр.-схема.jpg",
+      "dependencies": []
+    },
+    "10-курс/1-неделя/пять-янтр.-схема.jpg": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 92953,
+      "exportedPath": "10-курс/1-неделя/пять-янтр.-схема.jpg",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
-    "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 317,
-      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
-      "dependencies": []
-    },
-    "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 279,
-      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 176827,
+      "modifiedTime": 1743103024254,
+      "sourceSize": 6758,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1726442733572,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 8938,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 130471,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/theme.css": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 272327,
-      "exportedPath": "lib/styles/theme.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 236,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240914200742.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 340827,
-      "exportedPath": "lib/media/pasted-image-20240914200742.png",
-      "dependencies": []
-    },
-    "lib/media/размента-сайта.-правки-1.jpg": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 799624,
-      "exportedPath": "lib/media/размента-сайта.-правки-1.jpg",
-      "dependencies": []
-    },
-    "lib/media/размента-сайта.-правки-2.jpg": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 535491,
-      "exportedPath": "lib/media/размента-сайта.-правки-2.jpg",
-      "dependencies": []
-    },
-    "lib/media/размента-сайта.-правки-3.jpg": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 408293,
-      "exportedPath": "lib/media/размента-сайта.-правки-3.jpg",
-      "dependencies": []
-    },
-    "lib/media/верхнее-меню.jpg": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 219727,
-      "exportedPath": "lib/media/верхнее-меню.jpg",
-      "dependencies": []
-    },
-    "lib/media/главная-страница.jpg": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 629833,
-      "exportedPath": "lib/media/главная-страница.jpg",
-      "dependencies": []
-    },
-    "lib/media/радио-дхарма.jpg": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 260601,
-      "exportedPath": "lib/media/радио-дхарма.jpg",
-      "dependencies": []
-    },
-    "lib/media/боковое-меню.jpg": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 275593,
-      "exportedPath": "lib/media/боковое-меню.jpg",
-      "dependencies": []
-    },
-    "lib/media/магические-иконки-1.jpg": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 50843,
-      "exportedPath": "lib/media/магические-иконки-1.jpg",
-      "dependencies": []
-    },
-    "lib/media/магические-иконки-2.jpg": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 78787,
-      "exportedPath": "lib/media/магические-иконки-2.jpg",
-      "dependencies": []
-    },
-    "lib/media/магические-иконки-3.jpg": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 65942,
-      "exportedPath": "lib/media/магические-иконки-3.jpg",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240913101138.png": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 1523726,
-      "exportedPath": "lib/media/pasted-image-20240913101138.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240913101210.png": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 302591,
-      "exportedPath": "lib/media/pasted-image-20240913101210.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240913101305.png": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 868145,
-      "exportedPath": "lib/media/pasted-image-20240913101305.png",
-      "dependencies": []
-    },
     "lib/media/favicon.svg": {
-      "modifiedTime": 1728297148425,
+      "modifiedTime": 1743103024254,
       "sourceSize": 5968,
       "exportedPath": "lib/media/favicon.svg",
       "dependencies": []
     },
-    "lib/media/pasted-image-20240918001612.png": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 212069,
-      "exportedPath": "lib/media/pasted-image-20240918001612.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240918003906.png": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 201550,
-      "exportedPath": "lib/media/pasted-image-20240918003906.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240918004234.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 176789,
-      "exportedPath": "lib/media/pasted-image-20240918004234.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240918004347.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 105931,
-      "exportedPath": "lib/media/pasted-image-20240918004347.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240918005559.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 295028,
-      "exportedPath": "lib/media/pasted-image-20240918005559.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240918010541.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 305769,
-      "exportedPath": "lib/media/pasted-image-20240918010541.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240918011203.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 322394,
-      "exportedPath": "lib/media/pasted-image-20240918011203.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240918011538.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 402389,
-      "exportedPath": "lib/media/pasted-image-20240918011538.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240910141006.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 201318,
-      "exportedPath": "data/pasted-image-20240910141006.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240910152120.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 68568,
-      "exportedPath": "data/pasted-image-20240910152120.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240910223748.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 54238,
-      "exportedPath": "data/pasted-image-20240910223748.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240910224431.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 128406,
-      "exportedPath": "data/pasted-image-20240910224431.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240910224435.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 128406,
-      "exportedPath": "data/pasted-image-20240910224435.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240910230749.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 645852,
-      "exportedPath": "data/pasted-image-20240910230749.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240911001856.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 207128,
-      "exportedPath": "data/pasted-image-20240911001856.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240911002350.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 115058,
-      "exportedPath": "data/pasted-image-20240911002350.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240911004421.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 113029,
-      "exportedPath": "data/pasted-image-20240911004421.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240911011822.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 237103,
-      "exportedPath": "data/pasted-image-20240911011822.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240911013547.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 581269,
-      "exportedPath": "data/pasted-image-20240911013547.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240912160526.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 148098,
-      "exportedPath": "data/pasted-image-20240912160526.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240912170637.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 265918,
-      "exportedPath": "data/pasted-image-20240912170637.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240912181016.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 1065394,
-      "exportedPath": "data/pasted-image-20240912181016.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240913011934.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 313433,
-      "exportedPath": "data/pasted-image-20240913011934.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240913101138.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 1523726,
-      "exportedPath": "data/pasted-image-20240913101138.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240913101210.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 302591,
-      "exportedPath": "data/pasted-image-20240913101210.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240913101305.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 868145,
-      "exportedPath": "data/pasted-image-20240913101305.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240914200742.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 340827,
-      "exportedPath": "data/pasted-image-20240914200742.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240918001612.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 212069,
-      "exportedPath": "data/pasted-image-20240918001612.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240918003906.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 201550,
-      "exportedPath": "data/pasted-image-20240918003906.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240918004234.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 176789,
-      "exportedPath": "data/pasted-image-20240918004234.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240918004347.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 105931,
-      "exportedPath": "data/pasted-image-20240918004347.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240918005559.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 295028,
-      "exportedPath": "data/pasted-image-20240918005559.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240918010541.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 305769,
-      "exportedPath": "data/pasted-image-20240918010541.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240918011203.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 322394,
-      "exportedPath": "data/pasted-image-20240918011203.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240918011538.png": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 402389,
-      "exportedPath": "data/pasted-image-20240918011538.png",
-      "dependencies": []
-    },
-    "data/Боковое меню.jpg": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 275593,
-      "exportedPath": "data/боковое-меню.jpg",
-      "dependencies": []
-    },
-    "data/Верхнее меню.jpg": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 219727,
-      "exportedPath": "data/верхнее-меню.jpg",
-      "dependencies": []
-    },
-    "data/Главная страница.jpg": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 629833,
-      "exportedPath": "data/главная-страница.jpg",
-      "dependencies": []
-    },
-    "data/Магические иконки 1.jpg": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 50843,
-      "exportedPath": "data/магические-иконки-1.jpg",
-      "dependencies": []
-    },
-    "data/Магические иконки 2.jpg": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 78787,
-      "exportedPath": "data/магические-иконки-2.jpg",
-      "dependencies": []
-    },
-    "data/Магические иконки 3.jpg": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 65942,
-      "exportedPath": "data/магические-иконки-3.jpg",
-      "dependencies": []
-    },
-    "data/Радио Дхарма.jpg": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 260601,
-      "exportedPath": "data/радио-дхарма.jpg",
-      "dependencies": []
-    },
-    "data/Размента сайта. Правки 1.jpg": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 799624,
-      "exportedPath": "data/размента-сайта.-правки-1.jpg",
-      "dependencies": []
-    },
-    "data/Размента сайта. Правки 2.jpg": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 535491,
-      "exportedPath": "data/размента-сайта.-правки-2.jpg",
-      "dependencies": []
-    },
-    "data/Размента сайта. Правки 3.jpg": {
-      "modifiedTime": 1726616151109,
-      "sourceSize": 408293,
-      "exportedPath": "data/размента-сайта.-правки-3.jpg",
-      "dependencies": []
-    },
-    "UX-UI/UX Поиск.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 1359,
-      "exportedPath": "ux-ui/ux-поиск.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240918001612.png",
-        "lib/media/pasted-image-20240918003906.png"
-      ]
-    },
-    "UX-UI/UX-UI.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 1157,
-      "exportedPath": "ux-ui/ux-ui.html",
-      "dependencies": []
-    },
-    "UX-UI/Изначальная постановка задачи по дизайну.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 1957,
-      "exportedPath": "ux-ui/изначальная-постановка-задачи-по-дизайну.html",
-      "dependencies": []
-    },
-    "UX-UI/Консультация c UX дизайнером.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 3331,
-      "exportedPath": "ux-ui/консультация-c-ux-дизайнером.html",
-      "dependencies": []
-    },
-    "UX-UI/Пожелания по структуре сайта от Гуру.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 874,
-      "exportedPath": "ux-ui/пожелания-по-структуре-сайта-от-гуру.html",
-      "dependencies": [
-        "lib/media/размента-сайта.-правки-1.jpg",
-        "lib/media/размента-сайта.-правки-2.jpg",
-        "lib/media/размента-сайта.-правки-3.jpg"
-      ]
-    },
-    "UX-UI/Прототип от Свастидеви.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 186,
-      "exportedPath": "ux-ui/прототип-от-свастидеви.html",
-      "dependencies": [
-        "lib/media/верхнее-меню.jpg",
-        "lib/media/главная-страница.jpg",
-        "lib/media/радио-дхарма.jpg",
-        "lib/media/боковое-меню.jpg"
-      ]
-    },
-    "UX-UI/Рефы от Гуру.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 625,
-      "exportedPath": "ux-ui/рефы-от-гуру.html",
-      "dependencies": [
-        "lib/media/магические-иконки-1.jpg",
-        "lib/media/магические-иконки-2.jpg",
-        "lib/media/магические-иконки-3.jpg",
-        "lib/media/pasted-image-20240913101138.png",
-        "lib/media/pasted-image-20240913101210.png",
-        "lib/media/pasted-image-20240913101305.png"
-      ]
-    },
-    "UX-UI/Ссылки UI.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 3440,
-      "exportedPath": "ux-ui/ссылки-ui.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240912170637.png",
-        "lib/media/pasted-image-20240912181016.png",
-        "lib/media/pasted-image-20240914200742.png",
-        "lib/media/pasted-image-20240918004234.png",
-        "lib/media/pasted-image-20240918004347.png",
-        "lib/media/pasted-image-20240918005559.png",
-        "lib/media/pasted-image-20240918010541.png",
-        "lib/media/pasted-image-20240920152139.png",
-        "lib/media/pasted-image-20240921003237.png",
-        "lib/media/pasted-image-20240921013044.png",
-        "lib/media/pasted-image-20240918011203.png",
-        "lib/media/pasted-image-20240918011538.png",
-        "lib/media/pasted-image-20240922010245.png",
-        "lib/media/pasted-image-20240922012504.png",
-        "lib/media/pasted-image-20240922010700.png",
-        "lib/media/pasted-image-20240922011821.png",
-        "lib/media/pasted-image-20240922165251.png",
-        "lib/media/pasted-image-20240922165351.png",
-        "lib/media/pasted-image-20240923162621.png"
-      ]
-    },
-    "UX-UI/Фичи UI.md": {
-      "modifiedTime": 1726695659701,
-      "sourceSize": 382,
-      "exportedPath": "ux-ui/фичи-ui.html",
-      "dependencies": []
-    },
-    "Анализ структуры сайта/Анализ структуры сайта.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 57152,
-      "exportedPath": "анализ-структуры-сайта/анализ-структуры-сайта.html",
-      "dependencies": []
-    },
-    "Люди/Васудева.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 92,
-      "exportedPath": "люди/васудева.html",
-      "dependencies": []
-    },
-    "Люди/Видьяранья.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 187,
-      "exportedPath": "люди/видьяранья.html",
-      "dependencies": []
-    },
-    "Люди/Егорушкин Сергей.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 83,
-      "exportedPath": "люди/егорушкин-сергей.html",
-      "dependencies": []
-    },
-    "Люди/Наталья.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 80,
-      "exportedPath": "люди/наталья.html",
-      "dependencies": []
-    },
-    "Люди/Нитья.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 76,
-      "exportedPath": "люди/нитья.html",
-      "dependencies": []
-    },
-    "Люди/Петр Гуськов.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 42,
-      "exportedPath": "люди/петр-гуськов.html",
-      "dependencies": []
-    },
-    "Люди/Свастидеви.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 82,
-      "exportedPath": "люди/свастидеви.html",
-      "dependencies": []
-    },
-    "Модули/Авторизация/User Пользователь.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 364,
-      "exportedPath": "модули/авторизация/user-пользователь.html",
-      "dependencies": []
-    },
-    "Модули/Авторизация/Авторизация для Аудиомодуля.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 4240,
-      "exportedPath": "модули/авторизация/авторизация-для-аудиомодуля.html",
-      "dependencies": []
-    },
-    "Модули/Авторизация/Авторизация для Поиска.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 277,
-      "exportedPath": "модули/авторизация/авторизация-для-поиска.html",
-      "dependencies": []
-    },
-    "Модули/Авторизация/Избранное.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 669,
-      "exportedPath": "модули/авторизация/избранное.html",
-      "dependencies": []
-    },
-    "Модули/Авторизация/Сквозная авторизация.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 276,
-      "exportedPath": "модули/авторизация/сквозная-авторизация.html",
-      "dependencies": []
-    },
-    "Модули/Аудиогаллерея/Аудиогаллерея.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 3104,
-      "exportedPath": "модули/аудиогаллерея/аудиогаллерея.html",
-      "dependencies": []
-    },
-    "Модули/Аудиогаллерея/Лекция.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 1288,
-      "exportedPath": "модули/аудиогаллерея/лекция.html",
-      "dependencies": []
-    },
-    "Модули/Аудиогаллерея/Плеер.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 3913,
-      "exportedPath": "модули/аудиогаллерея/плеер.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240912160526.png"
-      ]
-    },
-    "Модули/Библиотека/Библиотека.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 7367,
-      "exportedPath": "модули/библиотека/библиотека.html",
-      "dependencies": []
-    },
-    "Модули/Библиотека/Каталог книг.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 2392,
-      "exportedPath": "модули/библиотека/каталог-книг.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240911011822.png",
-        "lib/media/pasted-image-20240911002350.png",
-        "lib/media/pasted-image-20240922171355.png",
-        "lib/media/pasted-image-20240922171713.png"
-      ]
-    },
-    "Модули/Библиотека/Страница с книгой.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 1063,
-      "exportedPath": "модули/библиотека/страница-с-книгой.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240911004421.png"
-      ]
-    },
-    "Модули/Библиотека/Читальный зал.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 4083,
-      "exportedPath": "модули/библиотека/читальный-зал.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240910224435.png",
-        "lib/media/pasted-image-20240913011934.png"
-      ]
-    },
-    "Модули/Видеогаллерея/Видеогаллерея.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 2574,
-      "exportedPath": "модули/видеогаллерея/видеогаллерея.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240921004932.png"
-      ]
-    },
-    "Модули/Древо Прибежища/Модуль Древо Прибежища.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 42,
-      "exportedPath": "модули/древо-прибежища/модуль-древо-прибежища.html",
-      "dependencies": []
-    },
-    "Модули/Дхарма википедия/Модуль Дхарма википедия.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 42,
-      "exportedPath": "модули/дхарма-википедия/модуль-дхарма-википедия.html",
-      "dependencies": []
-    },
-    "Модули/ИИ/Анализ естественного языка.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 3526,
-      "exportedPath": "модули/ии/анализ-естественного-языка.html",
-      "dependencies": []
-    },
-    "Модули/ИИ/ИИ.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 219,
-      "exportedPath": "модули/ии/ии.html",
-      "dependencies": []
-    },
-    "Модули/ИИ/ИИ в Аудиомодуле.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 1465,
-      "exportedPath": "модули/ии/ии-в-аудиомодуле.html",
-      "dependencies": []
-    },
-    "Модули/ИИ/ИИ в читальном зале.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 158,
-      "exportedPath": "модули/ии/ии-в-читальном-зале.html",
-      "dependencies": []
-    },
-    "Модули/Институт Васиштхи/Институт Васиштхи.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 276,
-      "exportedPath": "модули/институт-васиштхи/институт-васиштхи.html",
-      "dependencies": []
-    },
-    "Модули/Календарь/Модуль Календарь.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 42,
-      "exportedPath": "модули/календарь/модуль-календарь.html",
-      "dependencies": []
-    },
-    "Модули/Контакты/Модуль Контакты.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 42,
-      "exportedPath": "модули/контакты/модуль-контакты.html",
-      "dependencies": []
-    },
-    "Модули/Магазин/Модуль Магазин.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 186,
-      "exportedPath": "модули/магазин/модуль-магазин.html",
-      "dependencies": []
-    },
-    "Модули/Наши ресурсы (ссылки)/Модуль Наши ресурсы (ссылки).md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 42,
-      "exportedPath": "модули/наши-ресурсы-(ссылки)/модуль-наши-ресурсы-(ссылки).html",
-      "dependencies": []
-    },
-    "Модули/Новости/Модуль Новости.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 42,
-      "exportedPath": "модули/новости/модуль-новости.html",
-      "dependencies": []
-    },
-    "Модули/Подписка/Модуль Подписка.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 42,
-      "exportedPath": "модули/подписка/модуль-подписка.html",
-      "dependencies": []
-    },
-    "Модули/Подписка/Функции подписки в аудиомодуле.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 804,
-      "exportedPath": "модули/подписка/функции-подписки-в-аудиомодуле.html",
-      "dependencies": []
-    },
-    "Модули/Подписка/Функции подписки в библиотеке.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 768,
-      "exportedPath": "модули/подписка/функции-подписки-в-библиотеке.html",
-      "dependencies": []
-    },
-    "Модули/Пожертвования и проекты/Модуль Пожертвования и Проекты.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 42,
-      "exportedPath": "модули/пожертвования-и-проекты/модуль-пожертвования-и-проекты.html",
-      "dependencies": []
-    },
-    "Модули/Поиск/Поиск.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 496,
-      "exportedPath": "модули/поиск/поиск.html",
-      "dependencies": []
-    },
-    "Модули/Поиск/Поиск в библиотеке.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 251,
-      "exportedPath": "модули/поиск/поиск-в-библиотеке.html",
-      "dependencies": []
-    },
-    "Модули/Поиск/Поиск по видегаллерее.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 604,
-      "exportedPath": "модули/поиск/поиск-по-видегаллерее.html",
-      "dependencies": []
-    },
-    "Модули/Поиск/Поиск по сайту.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 3741,
-      "exportedPath": "модули/поиск/поиск-по-сайту.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240910223748.png"
-      ]
-    },
-    "Модули/Поиск/Поиск Сортировка Фильтры в аудиогаллерее.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 2551,
-      "exportedPath": "модули/поиск/поиск-сортировка-фильтры-в-аудиогаллерее.html",
-      "dependencies": []
-    },
-    "Модули/Поиск/Технические требования к Поиску.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 983,
-      "exportedPath": "модули/поиск/технические-требования-к-поиску.html",
-      "dependencies": []
-    },
-    "Модули/Радио/Модул Радио.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 42,
-      "exportedPath": "модули/радио/модул-радио.html",
-      "dependencies": []
-    },
-    "Модули/Форум/Форум.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 126,
-      "exportedPath": "модули/форум/форум.html",
-      "dependencies": []
-    },
-    "Модули/Глоссарий.md": {
-      "modifiedTime": 1726694044621,
-      "sourceSize": 237,
-      "exportedPath": "модули/глоссарий.html",
-      "dependencies": []
-    },
-    "Модули/Каталог.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 2017,
-      "exportedPath": "модули/каталог.html",
-      "dependencies": []
-    },
-    "advayta_org.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 402,
-      "exportedPath": "advayta_org.html",
-      "dependencies": []
-    },
-    "Вопросы по сайту.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 197,
-      "exportedPath": "вопросы-по-сайту.html",
-      "dependencies": []
-    },
-    "Ссылки.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 422,
-      "exportedPath": "ссылки.html",
-      "dependencies": []
-    },
-    "data/pasted-image-20240910141006.png": {
-      "modifiedTime": 1727214923343,
-      "sourceSize": 201318,
-      "exportedPath": "data/pasted-image-20240910141006.png",
-      "dependencies": []
-    },
-    "data/pasted-image-20240910152120.png": {
-      "modifiedTime": 1727214923343,
-      "sourceSize": 68568,
-      "exportedPath": "data/pasted-image-20240910152120.png",
-      "dependencies": []
-    },
-    "Модули/Модули.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 1181,
-      "exportedPath": "модули/модули.html",
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 2207,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 137567,
+      "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 2910,
+      "modifiedTime": 1743103024254,
+      "sourceSize": 7775,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
-    "data/Pasted image 20240920152139.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 174968,
-      "exportedPath": "data/pasted-image-20240920152139.png",
+    "lib/styles/theme.css": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 12922,
+      "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
-    "data/Pasted image 20240920235517.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 611791,
-      "exportedPath": "data/pasted-image-20240920235517.png",
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
-    "data/Pasted image 20240920235720.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 2705018,
-      "exportedPath": "data/pasted-image-20240920235720.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240920235814.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 2017362,
-      "exportedPath": "data/pasted-image-20240920235814.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240921003237.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 1028780,
-      "exportedPath": "data/pasted-image-20240921003237.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240921004932.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 2099871,
-      "exportedPath": "data/pasted-image-20240921004932.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240921013044.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 638962,
-      "exportedPath": "data/pasted-image-20240921013044.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240921171158.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 643986,
-      "exportedPath": "data/pasted-image-20240921171158.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240921171556.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 631019,
-      "exportedPath": "data/pasted-image-20240921171556.png",
-      "dependencies": []
-    },
-    "Карта сайта/Ашрамы и центры/Ашрамы и центры.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 634,
-      "exportedPath": "карта-сайта/ашрамы-и-центры/ашрамы-и-центры.html",
-      "dependencies": []
-    },
-    "Карта сайта/Гуру/Гуру.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 481,
-      "exportedPath": "карта-сайта/гуру/гуру.html",
-      "dependencies": []
-    },
-    "Карта сайта/Религия и философия/Религия и философия.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 714,
-      "exportedPath": "карта-сайта/религия-и-философия/религия-и-философия.html",
-      "dependencies": []
-    },
-    "Карта сайта/Религия и философия/Санатана Дхарма.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 318,
-      "exportedPath": "карта-сайта/религия-и-философия/санатана-дхарма.html",
-      "dependencies": []
-    },
-    "Карта сайта/Аудиолекции.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/аудиолекции.html",
-      "dependencies": []
-    },
-    "Карта сайта/Библиотека.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 389,
-      "exportedPath": "карта-сайта/библиотека.html",
-      "dependencies": []
-    },
-    "Карта сайта/Бхаджаны.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/бхаджаны.html",
-      "dependencies": []
-    },
-    "Карта сайта/Видеосатсанги.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/видеосатсанги.html",
-      "dependencies": []
-    },
-    "Карта сайта/Все мантры.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/все-мантры.html",
-      "dependencies": []
-    },
-    "Карта сайта/Главная.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 2483,
-      "exportedPath": "карта-сайта/главная.html",
-      "dependencies": []
-    },
-    "Карта сайта/Деятельноть.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 418,
-      "exportedPath": "карта-сайта/деятельноть.html",
-      "dependencies": []
-    },
-    "Карта сайта/Заказать ритуалы.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/заказать-ритуалы.html",
-      "dependencies": []
-    },
-    "Карта сайта/Записаться на ритрит.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/записаться-на-ритрит.html",
-      "dependencies": []
-    },
-    "Карта сайта/Карта сайта.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 76,
-      "exportedPath": "карта-сайта/карта-сайта.html",
-      "dependencies": []
-    },
-    "Карта сайта/Книги и упадеши.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/книги-и-упадеши.html",
-      "dependencies": []
-    },
-    "Карта сайта/Консультация с монахом.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 80,
-      "exportedPath": "карта-сайта/консультация-с-монахом.html",
-      "dependencies": []
-    },
-    "Карта сайта/Личный кабинет.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 76,
-      "exportedPath": "карта-сайта/личный-кабинет.html",
-      "dependencies": []
-    },
-    "Карта сайта/Медиатека.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 412,
-      "exportedPath": "карта-сайта/медиатека.html",
-      "dependencies": []
-    },
-    "Карта сайта/Написать письмо.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/написать-письмо.html",
-      "dependencies": []
-    },
-    "Карта сайта/Наша традиция.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 658,
-      "exportedPath": "карта-сайта/наша-традиция.html",
-      "dependencies": []
-    },
-    "Карта сайта/Обновления.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/обновления.html",
-      "dependencies": []
-    },
-    "Карта сайта/Обучение.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 320,
-      "exportedPath": "карта-сайта/обучение.html",
-      "dependencies": []
-    },
-    "Карта сайта/Общая информация.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 80,
-      "exportedPath": "карта-сайта/общая-информация.html",
-      "dependencies": []
-    },
-    "Карта сайта/Община.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 514,
-      "exportedPath": "карта-сайта/община.html",
-      "dependencies": []
-    },
-    "Карта сайта/Поддержать.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/поддержать.html",
-      "dependencies": []
-    },
-    "Карта сайта/Получить духовное имя.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/получить-духовное-имя.html",
-      "dependencies": []
-    },
-    "Карта сайта/Приехать в ашрам.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/приехать-в-ашрам.html",
-      "dependencies": []
-    },
-    "Карта сайта/Радио Дхарма.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/радио-дхарма.html",
-      "dependencies": []
-    },
-    "Карта сайта/Расписание ритритов.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 80,
-      "exportedPath": "карта-сайта/расписание-ритритов.html",
-      "dependencies": []
-    },
-    "Карта сайта/Рассылка.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/рассылка.html",
-      "dependencies": []
-    },
-    "Карта сайта/Создать ашрам.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/создать-ашрам.html",
-      "dependencies": []
-    },
-    "Карта сайта/Создать дхарма центр.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/создать-дхарма-центр.html",
-      "dependencies": []
-    },
-    "Карта сайта/Стать санньяси.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/стать-санньяси.html",
-      "dependencies": []
-    },
-    "Карта сайта/Стать учеником.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 267,
-      "exportedPath": "карта-сайта/стать-учеником.html",
-      "dependencies": []
-    },
-    "Карта сайта/Учение.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 76,
-      "exportedPath": "карта-сайта/учение.html",
-      "dependencies": []
-    },
-    "Карта сайта/Ученики Гуру.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 261,
-      "exportedPath": "карта-сайта/ученики-гуру.html",
-      "dependencies": []
-    },
-    "Карта сайта/язык.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 43,
-      "exportedPath": "карта-сайта/язык.html",
-      "dependencies": []
-    },
-    "Люди/Александр.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 104,
-      "exportedPath": "люди/александр.html",
-      "dependencies": []
-    },
-    "Модули/Видеогаллерея/Страничка с видео.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 643,
-      "exportedPath": "модули/видеогаллерея/страничка-с-видео.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240921171158.png"
-      ]
-    },
-    "Модули/Обьявления/Обьявления.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 155,
-      "exportedPath": "модули/обьявления/обьявления.html",
-      "dependencies": []
-    },
-    "Модули/Реклама/Реклама.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 283,
-      "exportedPath": "модули/реклама/реклама.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240921171556.png"
-      ]
-    },
-    "Модули/Фотогаллерея/Ссылки на фотогаллереи.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 792,
-      "exportedPath": "модули/фотогаллерея/ссылки-на-фотогаллереи.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240920235517.png",
-        "lib/media/pasted-image-20240920235720.png",
-        "lib/media/pasted-image-20240920235814.png",
-        "lib/media/pasted-image-20240922172020.png",
-        "lib/media/pasted-image-20240922172054.png",
-        "lib/media/pasted-image-20240922172136.png"
-      ]
-    },
-    "Модули/Фотогаллерея/Фотогаллерея.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 1060,
-      "exportedPath": "модули/фотогаллерея/фотогаллерея.html",
-      "dependencies": []
-    },
-    "Жизнь общины.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 80,
-      "exportedPath": "жизнь-общины.html",
-      "dependencies": []
-    },
-    "Фичи Идеи.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 1548,
-      "exportedPath": "фичи-идеи.html",
-      "dependencies": []
-    },
-    "Цели сайта.md": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 6630,
-      "exportedPath": "цели-сайта.html",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240920152139.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 174968,
-      "exportedPath": "lib/media/pasted-image-20240920152139.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240921003237.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 1028780,
-      "exportedPath": "lib/media/pasted-image-20240921003237.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240921013044.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 638962,
-      "exportedPath": "lib/media/pasted-image-20240921013044.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240921004932.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 2099871,
-      "exportedPath": "lib/media/pasted-image-20240921004932.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240921171158.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 643986,
-      "exportedPath": "lib/media/pasted-image-20240921171158.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240921171556.png": {
-      "modifiedTime": 1726954112685,
-      "sourceSize": 631019,
-      "exportedPath": "lib/media/pasted-image-20240921171556.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240920235517.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 611791,
-      "exportedPath": "lib/media/pasted-image-20240920235517.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240920235720.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 2705018,
-      "exportedPath": "lib/media/pasted-image-20240920235720.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240920235814.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 2017362,
-      "exportedPath": "lib/media/pasted-image-20240920235814.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922010245.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 946503,
-      "exportedPath": "data/pasted-image-20240922010245.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922010700.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 1056964,
-      "exportedPath": "data/pasted-image-20240922010700.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922011821.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 258178,
-      "exportedPath": "data/pasted-image-20240922011821.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922012504.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 1389033,
-      "exportedPath": "data/pasted-image-20240922012504.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922165251.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 456966,
-      "exportedPath": "data/pasted-image-20240922165251.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922165351.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 388234,
-      "exportedPath": "data/pasted-image-20240922165351.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922171355.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 381350,
-      "exportedPath": "data/pasted-image-20240922171355.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922171536.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 935467,
-      "exportedPath": "data/pasted-image-20240922171536.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922171713.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 319908,
-      "exportedPath": "data/pasted-image-20240922171713.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922171826.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 3887106,
-      "exportedPath": "data/pasted-image-20240922171826.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922172020.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 624525,
-      "exportedPath": "data/pasted-image-20240922172020.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922172054.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 3872384,
-      "exportedPath": "data/pasted-image-20240922172054.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240922172136.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 942837,
-      "exportedPath": "data/pasted-image-20240922172136.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240923162621.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 54926,
-      "exportedPath": "data/pasted-image-20240923162621.png",
-      "dependencies": []
-    },
-    "UX-UI/Инфографика.md": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 218,
-      "exportedPath": "ux-ui/инфографика.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240922171536.png",
-        "lib/media/pasted-image-20240922171826.png"
-      ]
-    },
-    "Модули/Мантра дня/Мантра дня.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 600,
-      "exportedPath": "модули/мантра-дня/мантра-дня.html",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922171536.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 935467,
-      "exportedPath": "lib/media/pasted-image-20240922171536.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922171826.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 3887106,
-      "exportedPath": "lib/media/pasted-image-20240922171826.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922010245.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 946503,
-      "exportedPath": "lib/media/pasted-image-20240922010245.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922012504.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 1389033,
-      "exportedPath": "lib/media/pasted-image-20240922012504.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922010700.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 1056964,
-      "exportedPath": "lib/media/pasted-image-20240922010700.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922011821.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 258178,
-      "exportedPath": "lib/media/pasted-image-20240922011821.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922165251.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 456966,
-      "exportedPath": "lib/media/pasted-image-20240922165251.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922165351.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 388234,
-      "exportedPath": "lib/media/pasted-image-20240922165351.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240923162621.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 54926,
-      "exportedPath": "lib/media/pasted-image-20240923162621.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922171355.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 381350,
-      "exportedPath": "lib/media/pasted-image-20240922171355.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922171713.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 319908,
-      "exportedPath": "lib/media/pasted-image-20240922171713.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922172020.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 624525,
-      "exportedPath": "lib/media/pasted-image-20240922172020.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922172054.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 3872384,
-      "exportedPath": "lib/media/pasted-image-20240922172054.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240922172136.png": {
-      "modifiedTime": 1727213391205,
-      "sourceSize": 942837,
-      "exportedPath": "lib/media/pasted-image-20240922172136.png",
-      "dependencies": []
-    },
-    "Модули/Авторизация/Авторизация.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 1296,
-      "exportedPath": "модули/авторизация/авторизация.html",
-      "dependencies": []
-    },
-    "Модули/Авторизация/Личный кабинет.md": {
-      "modifiedTime": 1727306526008,
-      "sourceSize": 471,
-      "exportedPath": "модули/авторизация/личный-кабинет.html",
-      "dependencies": []
-    },
-    "Calendar/Calendar.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 0,
-      "exportedPath": "calendar/calendar.html",
-      "dependencies": []
-    },
-    "Calendar/(Every M) Общий митинг.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 140,
-      "exportedPath": "calendar/(every-m)-общий-митинг.html",
-      "dependencies": []
-    },
-    "data/Cкорость воспроизведения 1.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 10558,
-      "exportedPath": "data/cкорость-воспроизведения-1.png",
-      "dependencies": []
-    },
-    "data/Cкорость воспроизведения 2.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 7801,
-      "exportedPath": "data/cкорость-воспроизведения-2.png",
-      "dependencies": []
-    },
-    "data/Pasted image 20240930131202.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 35504,
-      "exportedPath": "data/pasted-image-20240930131202.png",
-      "dependencies": []
-    },
-    "data/Аудиоплеер-20240930130908.html": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 767297,
-      "exportedPath": "data/аудиоплеер-20240930130908.html",
-      "dependencies": []
-    },
-    "data/Вид плеера.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 13534,
-      "exportedPath": "data/вид-плеера.png",
-      "dependencies": []
-    },
-    "data/Кнопки быстрой перемотки.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 2736,
-      "exportedPath": "data/кнопки-быстрой-перемотки.png",
-      "dependencies": []
-    },
-    "Карта сайта/Форум.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 80,
-      "exportedPath": "карта-сайта/форум.html",
-      "dependencies": []
-    },
-    "Модули/Авторизация/на.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 0,
-      "exportedPath": "модули/авторизация/на.html",
-      "dependencies": []
-    },
-    "Модули/Авторизация/ОМ.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 60,
-      "exportedPath": "модули/авторизация/ом.html",
-      "dependencies": []
-    },
-    "Модули/Аудиоплеер/Аудиоплеер.md": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 8057,
-      "exportedPath": "модули/аудиоплеер/аудиоплеер.html",
-      "dependencies": [
-        "lib/media/вид-плеера.png",
-        "lib/media/кнопки-быстрой-перемотки.png",
-        "lib/media/cкорость-воспроизведения-1.png",
-        "lib/media/cкорость-воспроизведения-2.png",
-        "lib/media/pasted-image-20240930131202.png"
-      ]
-    },
-    "lib/media/вид-плеера.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 13534,
-      "exportedPath": "lib/media/вид-плеера.png",
-      "dependencies": []
-    },
-    "lib/media/кнопки-быстрой-перемотки.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 2736,
-      "exportedPath": "lib/media/кнопки-быстрой-перемотки.png",
-      "dependencies": []
-    },
-    "lib/media/cкорость-воспроизведения-1.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 10558,
-      "exportedPath": "lib/media/cкорость-воспроизведения-1.png",
-      "dependencies": []
-    },
-    "lib/media/cкорость-воспроизведения-2.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 7801,
-      "exportedPath": "lib/media/cкорость-воспроизведения-2.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240930131202.png": {
-      "modifiedTime": 1728297148425,
-      "sourceSize": 35504,
-      "exportedPath": "lib/media/pasted-image-20240930131202.png",
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1743103024254,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     }
   }
