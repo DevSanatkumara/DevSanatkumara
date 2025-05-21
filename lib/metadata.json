@@ -1,21 +1,63 @@
 {
   "vaultName": "Svadhyaya",
-  "lastExport": 1743103843538,
+  "lastExport": 1747838677302,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon hide-folder-note folder-note-underline-path fn-whitespace-stop-collapsing",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon hide-folder-note folder-note-underline-path fn-whitespace-stop-collapsing",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
-    "10 курс/1 неделя/1 Обучение и садхана в лайя-йоге с опорой на три ведантических принципа.md",
-    "10 курс/1 неделя/2 Шравана в традиции лайя-йоги, устная передача, пратьябхиджня-даршан, аналогии, связанные с 5 элементами, передача вне слов.md",
-    "10 курс/1 неделя/3 Манана в традиции Лайя-йоги.md",
-    "10 курс/1 неделя/4 Становление на путь созерцательного недеяния, наставления о недеянии и отпускании себя, состояние достижения сахаджи.md",
-    "10 курс/1 неделя/5 Нидидхьясана в традиции лайя-йоги.md",
-    "10 курс/1 неделя/6 Стадии поддержания непрерывного созерцания.md",
-    "10 курс/1 неделя/7 Уровни углубления естественного состояния.md",
-    "10 курс/1 неделя/15 Уникальность Лайя-йоги и пути сахаджаяны как квинтесенции и вершины всех духовных путей.md",
-    "10 курс/1 неделя/16 Общая структура учения Лайя-йоги - 5 янтр.md",
-    "10 курс/1 неделя/Пять янтр. Схема.jpg",
+    "Адвайта-веданта/Wiki/Авидья.md",
+    "Адвайта-веданта/Wiki/Адвайта-веданта.md",
+    "Адвайта-веданта/Wiki/Адхьяса.md",
+    "Адвайта-веданта/Wiki/Апарокша-джняна.md",
+    "Адвайта-веданта/Wiki/Атман.md",
+    "Адвайта-веданта/Wiki/Брахман.md",
+    "Адвайта-веданта/Wiki/Вьявахарика-сатья.md",
+    "Адвайта-веданта/Wiki/Доктрины причинности в адвайта-веданте.md",
+    "Адвайта-веданта/Wiki/Линии преемственности после Ади Шанкары.md",
+    "Адвайта-веданта/Wiki/Майя.md",
+    "Адвайта-веданта/Wiki/Матхи Ади Шанкары.md",
+    "Адвайта-веданта/Wiki/Мокша в адвайта-веданте.md",
+    "Адвайта-веданта/Wiki/Нети-нети.md",
+    "Адвайта-веданта/Wiki/Панча-коша-вивека.md",
+    "Адвайта-веданта/Wiki/Парамартхика-сатья.md",
+    "Адвайта-веданта/Wiki/Парокша-джняна.md",
+    "Адвайта-веданта/Wiki/Пракарана-грантхи.md",
+    "Адвайта-веданта/Wiki/Праманы в адвайте.md",
+    "Адвайта-веданта/Wiki/Прастхана-трайя.md",
+    "Адвайта-веданта/Wiki/Пратибхасика-сатья.md",
+    "Адвайта-веданта/Wiki/Сат-чит-ананда.md",
+    "Адвайта-веданта/Wiki/Тождество Атмана и Брахмана.md",
+    "Адвайта-веданта/Wiki/Упанишады.md",
+    "Адвайта-веданта/Wiki/Уровни реальности.md",
+    "Адвайта-веданта/Wiki/Шри Ади Шанкарачарья.md",
+    "Адвайта-веданта/Основные категории статей адвайта-веданта/Основные категории статей адвайта-веданта.md",
+    "Кашмирский шиваизм/Wiki/Вимарша.md",
+    "Кашмирский шиваизм/Wiki/Главная.md",
+    "Кашмирский шиваизм/Wiki/Кашмирский шиваизм.md",
+    "Кашмирский шиваизм/Wiki/Парамашива.md",
+    "Кашмирский шиваизм/Wiki/Пракаша.md",
+    "Кашмирский шиваизм/Wiki/Пратьябхиджня.md",
+    "Кашмирский шиваизм/Wiki/Спанда.md",
+    "Кашмирский шиваизм/Wiki/Спанда-шастра.md",
+    "Кашмирский шиваизм/Wiki/Трика.md",
+    "Кашмирский шиваизм/Техническое описание/Промты/Базовый краткий запрос.md",
+    "Кашмирский шиваизм/Техническое описание/Промты/Запрос для клода.md",
+    "Кашмирский шиваизм/Техническое описание/Промты/Образцовый запрос для клода.md",
+    "Кашмирский шиваизм/Техническое описание/Промты/Промт по сатье Кашмирский Шиваизм.md",
+    "Кашмирский шиваизм/Техническое описание/Вики технические требования.md",
+    "Кашмирский шиваизм/Техническое описание/Дополнительные функции вики-путеводителя.md",
+    "Кашмирский шиваизм/Техническое описание/Основные категории статей.md",
+    "Кашмирский шиваизм/Техническое описание/Основные разделы и подразделы энциклопедии.md",
+    "Кашмирский шиваизм/Техническое описание/Список текущих статей.md",
+    "Кашмирский шиваизм/Техническое описание/Список терминов.md",
+    "Кашмирский шиваизм/Техническое описание/Структура типовой статьи.md",
+    "index.md",
+    "lib/media/главная.png",
+    "lib/media/кашмирский-шиваизм.png",
+    "lib/media/парамашива.png",
+    "lib/media/пракаша.png",
+    "lib/media/спанда.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -45,8 +87,7 @@
     "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css",
-    "10-курс/1-неделя/пять-янтр.-схема.jpg"
+    "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -81,252 +122,506 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "10 курс/1 неделя/1 Обучение и садхана в лайя-йоге с опорой на три ведантических принципа.md": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 4385,
-      "exportedPath": "10-курс/1-неделя/1-обучение-и-садхана-в-лайя-йоге-с-опорой-на-три-ведантических-принципа.html",
+    "Адвайта-веданта/Wiki/Авидья.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 14695,
+      "exportedPath": "адвайта-веданта/wiki/авидья.html",
       "dependencies": []
     },
-    "10 курс/1 неделя/2 Шравана в традиции лайя-йоги, устная передача, пратьябхиджня-даршан, аналогии, связанные с 5 элементами, передача вне слов.md": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 23876,
-      "exportedPath": "10-курс/1-неделя/2-шравана-в-традиции-лайя-йоги,-устная-передача,-пратьябхиджня-даршан,-аналогии,-связанные-с-5-элементами,-передача-вне-слов.html",
+    "Адвайта-веданта/Wiki/Адвайта-веданта.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 24717,
+      "exportedPath": "адвайта-веданта/wiki/адвайта-веданта.html",
       "dependencies": []
     },
-    "10 курс/1 неделя/4 Становление на путь созерцательного недеяния, наставления о недеянии и отпускании себя, состояние достижения сахаджи.md": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 20828,
-      "exportedPath": "10-курс/1-неделя/4-становление-на-путь-созерцательного-недеяния,-наставления-о-недеянии-и-отпускании-себя,-состояние-достижения-сахаджи.html",
+    "Адвайта-веданта/Wiki/Адхьяса.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 12405,
+      "exportedPath": "адвайта-веданта/wiki/адхьяса.html",
       "dependencies": []
     },
-    "10 курс/1 неделя/6 Стадии поддержания непрерывного созерцания.md": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 2454,
-      "exportedPath": "10-курс/1-неделя/6-стадии-поддержания-непрерывного-созерцания.html",
+    "Адвайта-веданта/Wiki/Апарокша-джняна.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 16444,
+      "exportedPath": "адвайта-веданта/wiki/апарокша-джняна.html",
       "dependencies": []
     },
-    "10 курс/1 неделя/7 Уровни углубления естественного состояния.md": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 16586,
-      "exportedPath": "10-курс/1-неделя/7-уровни-углубления-естественного-состояния.html",
+    "Адвайта-веданта/Wiki/Атман.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 24995,
+      "exportedPath": "адвайта-веданта/wiki/атман.html",
       "dependencies": []
     },
-    "10 курс/1 неделя/15 Уникальность Лайя-йоги и пути сахаджаяны как квинтесенции и вершины всех духовных путей.md": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 15831,
-      "exportedPath": "10-курс/1-неделя/15-уникальность-лайя-йоги-и-пути-сахаджаяны-как-квинтесенции-и-вершины-всех-духовных-путей.html",
+    "Адвайта-веданта/Wiki/Брахман.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 50433,
+      "exportedPath": "адвайта-веданта/wiki/брахман.html",
       "dependencies": []
     },
-    "10 курс/1 неделя/16 Общая структура учения Лайя-йоги - 5 янтр.md": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 12958,
-      "exportedPath": "10-курс/1-неделя/16-общая-структура-учения-лайя-йоги-5-янтр.html",
+    "Адвайта-веданта/Wiki/Вьявахарика-сатья.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 11152,
+      "exportedPath": "адвайта-веданта/wiki/вьявахарика-сатья.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Доктрины причинности в адвайта-веданте.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 24813,
+      "exportedPath": "адвайта-веданта/wiki/доктрины-причинности-в-адвайта-веданте.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Линии преемственности после Ади Шанкары.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 15487,
+      "exportedPath": "адвайта-веданта/wiki/линии-преемственности-после-ади-шанкары.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Майя.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 16034,
+      "exportedPath": "адвайта-веданта/wiki/майя.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Матхи Ади Шанкары.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 14751,
+      "exportedPath": "адвайта-веданта/wiki/матхи-ади-шанкары.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Мокша в адвайта-веданте.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 15720,
+      "exportedPath": "адвайта-веданта/wiki/мокша-в-адвайта-веданте.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Нети-нети.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 12729,
+      "exportedPath": "адвайта-веданта/wiki/нети-нети.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Панча-коша-вивека.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 14716,
+      "exportedPath": "адвайта-веданта/wiki/панча-коша-вивека.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Парамартхика-сатья.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 10771,
+      "exportedPath": "адвайта-веданта/wiki/парамартхика-сатья.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Парокша-джняна.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 9131,
+      "exportedPath": "адвайта-веданта/wiki/парокша-джняна.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Пракарана-грантхи.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 9312,
+      "exportedPath": "адвайта-веданта/wiki/пракарана-грантхи.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Праманы в адвайте.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 12965,
+      "exportedPath": "адвайта-веданта/wiki/праманы-в-адвайте.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Прастхана-трайя.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 12871,
+      "exportedPath": "адвайта-веданта/wiki/прастхана-трайя.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Пратибхасика-сатья.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 10703,
+      "exportedPath": "адвайта-веданта/wiki/пратибхасика-сатья.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Сат-чит-ананда.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 20009,
+      "exportedPath": "адвайта-веданта/wiki/сат-чит-ананда.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Тождество Атмана и Брахмана.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 15033,
+      "exportedPath": "адвайта-веданта/wiki/тождество-атмана-и-брахмана.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Упанишады.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 16525,
+      "exportedPath": "адвайта-веданта/wiki/упанишады.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Уровни реальности.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 23535,
+      "exportedPath": "адвайта-веданта/wiki/уровни-реальности.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Wiki/Шри Ади Шанкарачарья.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 37557,
+      "exportedPath": "адвайта-веданта/wiki/шри-ади-шанкарачарья.html",
+      "dependencies": []
+    },
+    "Адвайта-веданта/Основные категории статей адвайта-веданта/Основные категории статей адвайта-веданта.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 4729,
+      "exportedPath": "адвайта-веданта/основные-категории-статей-адвайта-веданта/основные-категории-статей-адвайта-веданта.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Wiki/Вимарша.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 12020,
+      "exportedPath": "кашмирский-шиваизм/wiki/вимарша.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Wiki/Главная.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 6189,
+      "exportedPath": "кашмирский-шиваизм/wiki/главная.html",
       "dependencies": [
-        "10-курс/1-неделя/пять-янтр.-схема.jpg"
+        "lib/media/главная.png"
       ]
     },
-    "10 курс/1 неделя/Пять янтр. Схема.jpg": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 92953,
-      "exportedPath": "10-курс/1-неделя/пять-янтр.-схема.jpg",
+    "Кашмирский шиваизм/Wiki/Кашмирский шиваизм.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 47411,
+      "exportedPath": "кашмирский-шиваизм/wiki/кашмирский-шиваизм.html",
+      "dependencies": [
+        "lib/media/кашмирский-шиваизм.png"
+      ]
+    },
+    "Кашмирский шиваизм/Wiki/Парамашива.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 14940,
+      "exportedPath": "кашмирский-шиваизм/wiki/парамашива.html",
+      "dependencies": [
+        "lib/media/парамашива.png"
+      ]
+    },
+    "Кашмирский шиваизм/Wiki/Пракаша.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 9179,
+      "exportedPath": "кашмирский-шиваизм/wiki/пракаша.html",
+      "dependencies": [
+        "lib/media/пракаша.png"
+      ]
+    },
+    "Кашмирский шиваизм/Wiki/Пратьябхиджня.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 10777,
+      "exportedPath": "кашмирский-шиваизм/wiki/пратьябхиджня.html",
       "dependencies": []
     },
-    "10-курс/1-неделя/пять-янтр.-схема.jpg": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 92953,
-      "exportedPath": "10-курс/1-неделя/пять-янтр.-схема.jpg",
+    "Кашмирский шиваизм/Wiki/Спанда.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 17804,
+      "exportedPath": "кашмирский-шиваизм/wiki/спанда.html",
+      "dependencies": [
+        "lib/media/спанда.png"
+      ]
+    },
+    "Кашмирский шиваизм/Wiki/Спанда-шастра.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 15645,
+      "exportedPath": "кашмирский-шиваизм/wiki/спанда-шастра.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Wiki/Трика.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 11460,
+      "exportedPath": "кашмирский-шиваизм/wiki/трика.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Техническое описание/Промты/Базовый краткий запрос.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 722,
+      "exportedPath": "кашмирский-шиваизм/техническое-описание/промты/базовый-краткий-запрос.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Техническое описание/Промты/Запрос для клода.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 2074,
+      "exportedPath": "кашмирский-шиваизм/техническое-описание/промты/запрос-для-клода.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Техническое описание/Промты/Образцовый запрос для клода.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 6673,
+      "exportedPath": "кашмирский-шиваизм/техническое-описание/промты/образцовый-запрос-для-клода.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Техническое описание/Промты/Промт по сатье Кашмирский Шиваизм.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 7364,
+      "exportedPath": "кашмирский-шиваизм/техническое-описание/промты/промт-по-сатье-кашмирский-шиваизм.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Техническое описание/Вики технические требования.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 892,
+      "exportedPath": "кашмирский-шиваизм/техническое-описание/вики-технические-требования.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Техническое описание/Дополнительные функции вики-путеводителя.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 853,
+      "exportedPath": "кашмирский-шиваизм/техническое-описание/дополнительные-функции-вики-путеводителя.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Техническое описание/Основные категории статей.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 5564,
+      "exportedPath": "кашмирский-шиваизм/техническое-описание/основные-категории-статей.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Техническое описание/Основные разделы и подразделы энциклопедии.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 4856,
+      "exportedPath": "кашмирский-шиваизм/техническое-описание/основные-разделы-и-подразделы-энциклопедии.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Техническое описание/Список текущих статей.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 201,
+      "exportedPath": "кашмирский-шиваизм/техническое-описание/список-текущих-статей.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Техническое описание/Список терминов.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 5180,
+      "exportedPath": "кашмирский-шиваизм/техническое-описание/список-терминов.html",
+      "dependencies": []
+    },
+    "Кашмирский шиваизм/Техническое описание/Структура типовой статьи.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 902,
+      "exportedPath": "кашмирский-шиваизм/техническое-описание/структура-типовой-статьи.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 73,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/media/главная.png": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 3578458,
+      "exportedPath": "lib/media/главная.png",
+      "dependencies": []
+    },
+    "lib/media/кашмирский-шиваизм.png": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 3008356,
+      "exportedPath": "lib/media/кашмирский-шиваизм.png",
+      "dependencies": []
+    },
+    "lib/media/парамашива.png": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 2783516,
+      "exportedPath": "lib/media/парамашива.png",
+      "dependencies": []
+    },
+    "lib/media/пракаша.png": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 2964355,
+      "exportedPath": "lib/media/пракаша.png",
+      "dependencies": []
+    },
+    "lib/media/спанда.png": {
+      "modifiedTime": 1747838677302,
+      "sourceSize": 3009924,
+      "exportedPath": "lib/media/спанда.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 6282,
+      "modifiedTime": 1747838677302,
+      "sourceSize": 22470,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.svg": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 5968,
       "exportedPath": "lib/media/favicon.svg",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 1731,
+      "modifiedTime": 1747838677302,
+      "sourceSize": 5547,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 137567,
+      "modifiedTime": 1747838677302,
+      "sourceSize": 138359,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 7775,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 12922,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1743103843538,
+      "modifiedTime": 1747838677302,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "10 курс/1 неделя/3 Манана в традиции Лайя-йоги.md": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 19687,
-      "exportedPath": "10-курс/1-неделя/3-манана-в-традиции-лайя-йоги.html",
-      "dependencies": []
-    },
-    "10 курс/1 неделя/5 Нидидхьясана в традиции лайя-йоги.md": {
-      "modifiedTime": 1743103843538,
-      "sourceSize": 18281,
-      "exportedPath": "10-курс/1-неделя/5-нидидхьясана-в-традиции-лайя-йоги.html",
       "dependencies": []
     }
   }
